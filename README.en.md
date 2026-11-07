@@ -1,4 +1,4 @@
-# AI Businesses: 13 Ideas Ranked from Worst to Best for Getting Started — and the Ladder to Climb
+# AI Businesses: 13 from Worst to Best — and Where to Start
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
 
@@ -6,7 +6,7 @@
 
 ## What it is
 
-Every day, a new business idea built around AI appears, and choosing has become harder than building. This page evaluates thirteen of them with three scores from 1 to 5: how much technical knowledge you need to deliver something someone will pay for, how much room there is in the market (more buyers than sellers), and how long the business can last and grow without being swallowed by a platform. The list ranks them from worst to best for people just starting out. The rule that emerges at the end is simple: at the bottom, you sell what you build, which gets cheaper every month; at the top, you sell your judgment, which gets more valuable. That’s why the second part is a four-step ladder, with a 6-question assessment to find your step, a ready-to-use offer for each business, industry examples, and a 90-day plan. The prices in Brazilian reais are reference ranges for what people charge, not a promise of earnings.
+Every day, a new business idea built around artificial intelligence appears, and choosing has become harder than building. This page rates thirteen of them on three 1-to-5 scales: how much technical knowledge you need to deliver something people will pay for, how much room there is in the market (more buyers than sellers), and how long the business can last and grow without being swallowed by a platform. The list ranks them from worst to best for building over the long term. That is not the same as the best one to start with: the top spot requires experience no one has on day one, and some businesses near the bottom are great first steps. The simple rule at the end is this: at the bottom, you sell what you build, which gets cheaper every month; at the top, you sell your judgment, which becomes more valuable. That is why the second part is a four-step ladder, with a 6-question assessment to find your step, a ready-to-use offer for each business, industry examples, and a 90-day plan. Prices in reais are reference ranges for what businesses charge, not a promise of earnings.
 
 ## 📖 Page
 

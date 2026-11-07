@@ -1,4 +1,4 @@
-# Negócios com IA: os 13 do pior ao melhor para começar — e a escada para subir
+# Negócios com IA: os 13 do pior ao melhor — e por onde começar
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
 
@@ -6,7 +6,7 @@
 
 ## O que é
 
-Todo dia aparece um negócio novo para abrir com inteligência artificial, e escolher ficou mais difícil do que construir. Esta página avalia treze deles com três notas de 1 a 5: quanto conhecimento técnico você precisa para entregar algo que alguém pague, quanto espaço existe no mercado (mais compradores do que vendedores) e quanto o negócio dura e cresce sem ser engolido por uma plataforma. A lista vai do pior para o melhor para quem está começando. A regra que aparece no fim é simples: embaixo você vende o que constrói, que fica mais barato a cada mês; em cima você vende o seu julgamento, que fica mais valioso. Por isso a segunda parte é uma escada de quatro degraus, com um teste de 6 perguntas para achar o seu, a oferta pronta de cada negócio, exemplos por setor e um plano de 90 dias. Os valores em reais são faixas de referência do que se cobra, não promessa de ganho.
+Todo dia aparece um negócio novo para abrir com inteligência artificial, e escolher ficou mais difícil do que construir. Esta página avalia treze deles com três notas de 1 a 5: quanto conhecimento técnico você precisa para entregar algo que alguém pague, quanto espaço existe no mercado (mais compradores do que vendedores) e quanto o negócio dura e cresce sem ser engolido por uma plataforma. A lista vai do pior ao melhor negócio para construir no longo prazo. Isso não é o mesmo que o melhor para começar: o 1º lugar exige experiência que ninguém tem no primeiro dia, e alguns negócios do fim da lista são ótimos para dar o primeiro passo. A regra que aparece no fim é simples: embaixo você vende o que constrói, que fica mais barato a cada mês; em cima você vende o seu julgamento, que fica mais valioso. Por isso a segunda parte é uma escada de quatro degraus, com um teste de 6 perguntas para achar o seu, a oferta pronta de cada negócio, exemplos por setor e um plano de 90 dias. Os valores em reais são faixas de referência do que se cobra, não promessa de ganho.
 
 ## 📖 Página
 

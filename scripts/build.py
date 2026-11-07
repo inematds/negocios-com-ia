@@ -11,6 +11,10 @@ BASE = f"https://inematds.github.io/{SLUG}/guia/"
 LANGS = {"pt": ("pt-BR", ""), "en": ("en", "en"), "es": ("es", "es")}
 E = html.escape
 CSS = (RAIZ / "scripts/base.css").read_text() + r"""
+.q .lbl,.facts .f small,.ofr small,.q .curta small,.diag .dt{font-size:.8rem!important}
+ul.rel .tp{font-size:.75rem!important}
+.rk li a{display:block;padding:.35em 0;min-height:40px}
+.esc .dg li a{display:block;padding:.45em 0}
 /* notas */
 .nt{display:grid;gap:9px}
 .nt .r{display:grid;grid-template-columns:118px minmax(0,1fr) 30px;gap:10px;align-items:center;font-family:Sora;font-size:.8rem;font-weight:600}
@@ -100,8 +104,9 @@ FONTES = '<link rel="preconnect" href="https://fonts.googleapis.com">\n<link rel
 TIPO = {"projeto": "rel_projeto", "curso": "rel_curso"}
 
 
-def cabeca(ui, hl, title, desc, og, rel_path):
-    alts = "".join(f'<link rel="alternate" hreflang="{h}" href="{BASE}{p}{rel_path}">' for h, p in (("pt-BR", ""), ("en", "en/"), ("es", "es/")))
+def cabeca(ui, hl, title, desc, og, pagina, sub):
+    rel_path = (sub + "/" if sub else "") + pagina
+    alts = "".join(f'<link rel="alternate" hreflang="{h}" href="{BASE}{p}{pagina}">' for h, p in (("pt-BR", ""), ("en", "en/"), ("es", "es/")))
     return f"""<!DOCTYPE html>
 <html lang="{hl}">
 <head>
@@ -198,7 +203,7 @@ def ranking(c, lang):
                   f'<div class="lbl">{E(ui["rel_titulo"])}</div>{rel_lista(x["rel"], ui, lang)}'
                   f'<a class="topo" href="#lista">↑ {E(ui["topo"])}</a></div></article>')
     leg = "".join(f'<div class="card"><h3>{E(ui["n_" + k])}</h3><p>{E(ui["n_" + k + "_d"])}</p></div>' for k in ("tec", "mer", "dur"))
-    doc = cabeca(ui, hl, ui["title"], ui["description"], f"{BASE}assets/banner{suf}.jpg", f"{sub + '/' if sub else ''}")
+    doc = cabeca(ui, hl, ui["title"], ui["description"], f"{BASE}assets/banner{suf}.jpg", "", sub)
     doc += barra(ui, seletor(sub, ""), "#top", f'<a class="sec" href="#lista">{E(ui["nav_ranking"])}</a><a class="sec" href="escada/">{E(ui["nav_escada"])}</a><a class="sec" href="escada/#teste">{E(ui["nav_teste"])}</a>')
     doc += f"""
 <header class="hero" id="top"><div class="glow"></div><div class="wrap">
@@ -218,6 +223,7 @@ def ranking(c, lang):
   <span class="chip">{E(ui["notas_chip"])}</span><h2>{E(ui["notas_titulo"])}</h2><p class="sub">{E(ui["notas_sub"])}</p>
   <figure class="big"><img src="{a}/banner-grade{suf}.jpg" alt="{E(ui["hero_alt"])}" loading="lazy" width="1400" height="788"></figure>
   <div class="grid g4" style="grid-template-columns:repeat(auto-fit,minmax(220px,1fr))">{leg}</div>
+  <p class="sub" style="margin-top:1.4em">🪜 {E(ui["degrau_nota"])} <a href="escada/#degraus">{E(ui["nav_escada"])} →</a></p>
 </div></section>
 <section id="lista" class="rk"><div class="wrap">
   <span class="chip">{E(ui["rapido_chip"])}</span><h2>{E(ui["rapido_titulo"])}</h2><p class="sub">{E(ui["rapido_sub"])}</p>
@@ -247,11 +253,11 @@ var o=JSON.parse(m.value);for(var k in o){s[k]=(s[k]||0)+o[k];}}
 if(!ok){r.innerHTML='<p class="msg">'+D.ui.falta+'</p>';return;}
 var ord=Object.keys(s).sort(function(a,b){return s[b]-s[a]||ficha(a).pos-ficha(b).pos});
 var a=ficha(ord[0]),b=ficha(ord[1]),c=ficha(ord[2]);
-var up=D.dg.filter(function(d){return d.n===Math.min(a.degrau+1,4)})[0];
+var up=D.dg.filter(function(d){return d.n===a.degrau+1})[0];
 r.innerHTML='<div class="box"><img src="'+D.img+a.id+'.jpg" alt=""><div><span class="chip">'+D.ui.res+'</span><h3>'+a.emoji+' '+a.nome+'</h3>'+
 '<div class="curta">'+a.curta+'</div><div class="ofr"><small>'+D.ui.oferta+'</small>“'+a.oferta+'”</div>'+
 '<p class="alt"><b>'+D.ui.seg+':</b> '+b.emoji+' '+b.nome+' · '+c.emoji+' '+c.nome+'</p>'+
-'<p class="alt"><b>'+D.ui.prox+':</b> '+up.emoji+' '+up.nome+' — '+up.vende+'</p>'+
+'<p class="alt"><b>'+D.ui.prox+':</b> '+(up?up.emoji+' '+up.nome+' — '+up.vende:D.ui.topo)+'</p>'+
 '<p style="margin-top:14px"><a class="btn" href="'+D.rank+'#'+a.id+'">'+D.ui.ficha+' →</a> <a class="btn ghost" href="#teste" id="refaz">'+D.ui.refaz+'</a></p></div></div>';
 document.getElementById('refaz').addEventListener('click',function(){f.reset();r.innerHTML='';});
 r.scrollIntoView({behavior:'smooth',block:'start'});});
@@ -293,10 +299,9 @@ def escada(c, lang):
     dados = {"q": len(c["teste"]), "img": f"{a}/img/", "rank": "../",
              "n": [{k: x[k] for k in ("id", "pos", "emoji", "nome", "curta", "oferta", "degrau")} for x in c["negocios"]],
              "dg": [{k: d[k] for k in ("n", "emoji", "nome", "vende")} for d in c["degraus"]],
-             "ui": {"falta": ui["teste_falta"], "res": ui["teste_res"], "seg": ui["teste_seg"], "prox": ui["teste_prox"], "refaz": ui["teste_refaz"], "ficha": ui["teste_ficha"], "oferta": ui["oferta"]}}
+             "ui": {"falta": ui["teste_falta"], "res": ui["teste_res"], "seg": ui["teste_seg"], "prox": ui["teste_prox"], "refaz": ui["teste_refaz"], "ficha": ui["teste_ficha"], "oferta": ui["oferta"], "topo": ui["teste_topo"]}}
     dados_txt = json.dumps(dados, ensure_ascii=False).replace("</", "<\\/")
-    rel_path = f"{sub + '/' if sub else ''}escada/"
-    doc = cabeca(ui, hl, ui["escada_titulo"], ui["escada_desc"], f"{BASE}assets/banner-grade{'-' + sub if sub else ''}.jpg", rel_path)
+    doc = cabeca(ui, hl, ui["escada_titulo"], ui["escada_desc"], f"{BASE}assets/banner-grade{'-' + sub if sub else ''}.jpg", "escada/", sub)
     doc += barra(ui, seletor(sub, "escada/"), "../", f'<a class="sec" href="../#lista">{E(ui["nav_ranking"])}</a><a class="sec" href="#degraus">{E(ui["nav_escada"])}</a><a class="sec" href="#teste">{E(ui["nav_teste"])}</a>')
     doc += f"""
 <header class="hero" id="top"><div class="glow"></div><div class="wrap" style="grid-template-columns:1fr">

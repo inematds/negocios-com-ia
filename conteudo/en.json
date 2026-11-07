@@ -1,55 +1,55 @@
 {
  "lang": "en",
  "ui": {
-  "title": "AI Businesses: 13 Ideas Ranked from Worst to Best for Getting Started — and the Ladder to Climb",
-  "description": "Thirteen businesses you can start with AI, evaluated by INEMA for technical demands, market opportunity, and durability. Plus a 6-question assessment, ready-to-use offers by industry, and a 90-day plan.",
+  "title": "AI Businesses: 13 from Worst to Best — and Where to Start",
+  "description": "Thirteen businesses you can start with artificial intelligence, rated by INEMA for technical demands, market opportunity, and durability. Plus a 6-question assessment, ready-to-use offers by industry, and a 90-day plan.",
   "brand": "AI Businesses",
   "nav_ranking": "Ranking",
   "nav_escada": "Ladder",
-  "nav_teste": "Which one is yours?",
+  "nav_teste": "Which one is right for you?",
   "toggle": "Toggle theme",
   "hero_chip": "13 businesses · 3 scores · 1 ladder",
-  "hero_titulo": "AI Businesses: from <span class=\"amb\">worst to best</span> for getting started",
-  "hero_lead": "Thirteen businesses you can start with AI today, with INEMA’s scores for technical demands, market opportunity, and durability — and a path to move from one to the next.",
+  "hero_titulo": "AI Businesses: from <span class=\"amb\">worst to best</span> — and where to start",
+  "hero_lead": "Thirteen businesses you can start today with AI, ranked from worst to best for building, with INEMA’s scores for technical demands, market opportunity, and durability — plus a ladder showing where to enter and how to climb.",
   "cta1": "See the ranking",
   "cta2": "Take the assessment",
   "hero_alt": "AI Businesses banner: from worst to best for getting started",
   "resumo_chip": "In brief",
-  "resumo": "Every day, a new business idea built around AI appears, and choosing has become harder than building. This page evaluates thirteen of them with three scores from 1 to 5: how much technical knowledge you need to deliver something someone will pay for, how much room there is in the market (more buyers than sellers), and how long the business can last and grow without being swallowed by a platform. The list ranks them from worst to best for people just starting out. The rule that emerges at the end is simple: at the bottom, you sell what you build, which gets cheaper every month; at the top, you sell your judgment, which gets more valuable. That’s why the second part is a four-step ladder, with a 6-question assessment to find your step, a ready-to-use offer for each business, industry examples, and a 90-day plan. The prices in Brazilian reais are reference ranges for what people charge, not a promise of earnings.",
-  "notas_chip": "How we scored them",
+  "resumo": "Every day, a new business idea built around artificial intelligence appears, and choosing has become harder than building. This page rates thirteen of them on three 1-to-5 scales: how much technical knowledge you need to deliver something people will pay for, how much room there is in the market (more buyers than sellers), and how long the business can last and grow without being swallowed by a platform. The list ranks them from worst to best for building over the long term. That is not the same as the best one to start with: the top spot requires experience no one has on day one, and some businesses near the bottom are great first steps. The simple rule at the end is this: at the bottom, you sell what you build, which gets cheaper every month; at the top, you sell your judgment, which becomes more valuable. That is why the second part is a four-step ladder, with a 6-question assessment to find your step, a ready-to-use offer for each business, industry examples, and a 90-day plan. Prices in reais are reference ranges for what businesses charge, not a promise of earnings.",
+  "notas_chip": "How we rate them",
   "notas_titulo": "Three scores, from 1 to 5",
-  "notas_sub": "None of the businesses on this list are bad: they all work for someone. The scores show what kind of challenge you’ll face.",
+  "notas_sub": "None of the businesses on this list is bad: each works for someone. The scores show what kind of challenges you will face. The ranking is not the sum of the scores: durability and whether the business takes you to the next step carry more weight.",
   "n_tec": "Technical demands",
-  "n_tec_d": "How much knowledge you need to deliver something someone will pay for. A high score means it’s harder.",
+  "n_tec_d": "How much knowledge you need to deliver something people will pay for. A high score means it is harder.",
   "n_mer": "Market opportunity",
-  "n_mer_d": "Whether more people want to buy than are currently selling. A high score means more opportunity.",
+  "n_mer_d": "Whether more people want to buy than are selling today. A high score means more room to grow.",
   "n_dur": "Durability and growth",
-  "n_dur_d": "Whether it can become a business that lasts for years without being swallowed by a platform. A high score means it’s more resilient.",
+  "n_dur_d": "Whether it can become a business that lasts for years without being swallowed by a platform. A high score means it is more resilient.",
   "rapido_chip": "In a hurry?",
   "rapido_titulo": "All 13 at a glance",
-  "rapido_sub": "From 13th (worst for getting started) to 1st (best). Tap a business to see its full profile.",
+  "rapido_sub": "From 13th (worst business to build) to 1st (best). Tap a business to see its full profile.",
   "posicao": "Rank",
-  "curta": "In a nutshell",
+  "curta": "In one sentence",
   "explica": "How it works",
-  "preco": "What you can charge (reference)",
-  "para_quem": "Who it’s for",
-  "armadilha": "The pitfall",
-  "comecar": "How to get started in 7 days",
+  "preco": "Typical pricing (reference)",
+  "para_quem": "Who it suits",
+  "armadilha": "The trap",
+  "comecar": "First steps",
   "oferta": "The offer in one sentence",
-  "kpi": "The number you promise to improve",
+  "kpi": "The metric you promise to improve",
   "degrau": "Step",
   "rel_titulo": "INEMA projects and courses to get started",
   "rel_projeto": "Project",
   "rel_curso": "Course",
-  "rel_nota": "Some of these materials are still only available in Portuguese.",
+  "rel_nota": "Some of these resources are currently available only in Portuguese.",
   "img_alt": "Illustration of the business",
   "topo": "Back to the list",
   "regra_chip": "What the list teaches",
   "regra_titulo": "At the bottom, you sell what you build. At the top, you sell your judgment.",
-  "regra_texto": "Building websites, automations, or apps gets cheaper every month because AI does much of the work. Diagnosing the right problem, convincing a team to change, and being accountable for the result remain expensive because they depend on you. Starting at the bottom isn’t a mistake: that’s where you gain experience and your first clients. The mistake is staying there.",
+  "regra_texto": "Building a website, automation, or app gets cheaper every month because AI does much of the work. Diagnosing the right problem, persuading a team to change, and taking responsibility for the outcome remain expensive because they depend on you. Starting at the bottom is not a mistake: that is where you gain experience and your first clients. The mistake is staying there.",
   "regra_cta": "See the ladder and take the assessment",
   "escada_titulo": "The AI Business Ladder: find your step and climb",
-  "escada_desc": "A 6-question assessment that suggests which AI business to start with, ready-to-use offers for each step, examples by industry (clinic, accounting, real estate, law, restaurant), and a 90-day plan.",
+  "escada_desc": "A 6-question assessment that points to your entry-level AI business, a ready-to-use offer for each step, examples by industry (clinic, accounting, real estate, law, restaurant), and a 90-day plan.",
   "escada_chip": "4 steps · assessment · 90-day plan",
   "escada_h1": "The <span class=\"amb\">AI Business</span> Ladder",
   "escada_lead": "Answer 6 questions, find out which business to start with, and see the ready-to-use offer, first client, and next step.",
@@ -57,7 +57,7 @@
   "escada_volta": "See the full ranking",
   "degraus_chip": "The 4 steps",
   "degraus_titulo": "Each step sells something different",
-  "degraus_sub": "The higher you go, the less you sell hours of building and the more you sell diagnosis and accountability. Clients from the lower steps are the same ones who will buy from you at the higher steps.",
+  "degraus_sub": "The higher you go, the less you sell building hours and the more you sell diagnosis and accountability. Clients from the lower step are the same ones who will buy from you at the next one.",
   "teste_chip": "Quick assessment",
   "teste_titulo": "Which business is your starting point?",
   "teste_sub": "Six questions, one answer per question. Nothing is sent anywhere: the calculation happens in your browser.",
@@ -69,19 +69,21 @@
   "teste_refaz": "Retake the assessment",
   "teste_ficha": "See the full profile",
   "fichas_chip": "Ready-to-use offers",
-  "fichas_titulo": "An offer profile for every business",
-  "fichas_sub": "For each business: the sentence to use when selling, the number you promise to improve, and the INEMA kit to build a demo.",
+  "fichas_titulo": "The offer profile for each business",
+  "fichas_sub": "For each business: the line you use to sell it, the metric you promise to improve, and the INEMA kit to build a demo.",
   "setores_chip": "By industry",
-  "setores_titulo": "The same business becomes a concrete offer in every industry",
-  "setores_sub": "Clients don’t buy “AI.” They buy fewer missed calls, more appointments booked, and less time spent typing. Choose an industry and see the offer for each step.",
+  "setores_titulo": "The same business becomes a concrete offer in each industry",
+  "setores_sub": "Clients do not buy “AI.” They buy fewer missed calls, more appointments, and fewer hours spent typing. Choose an industry and see the offer for each step.",
   "plano_chip": "90-day plan",
   "plano_titulo": "From zero to your first case study",
   "plano_sub": "The plan works for any step. What changes is the offer you bring.",
   "foco_chip": "The rule that matters most",
   "foco_titulo": "Choose one and stick with it",
-  "foco_texto": "People who succeed rarely chose the perfect business at the perfect time. They chose one, stuck with it long enough, and didn’t switch niches every three weeks. Use the assessment to decide, not to put it off.",
+  "foco_texto": "People who succeed rarely chose the perfect business at the perfect time. They chose one, stuck with it long enough, and did not switch industries every three weeks. Use the assessment to decide, not to put off deciding.",
   "rodape": "Open and free content from INEMA.CLUB",
-  "aviso": "The prices are reference ranges for what people charge in Brazil (Brazilian reais, R$) in 2026, not a promise of earnings. Results depend on the offer, industry, execution, and time."
+  "aviso": "Prices are reference ranges for what businesses charge in Brazil in 2026 (Brazil), not a promise of earnings. Results depend on the offer, industry, execution, and time.",
+  "degrau_nota": "The step is a different measure: it shows how much proof and trust you need to sell that business. That is why the list and ladder have different orders — the ladder helps you find where to enter.",
+  "teste_topo": "You are already at the highest step: the next move is to serve more companies or add the other business at the top."
  },
  "notas_legenda": [
   "very low",
@@ -102,27 +104,27 @@
     "mer": 1,
     "dur": 3
    },
-   "curta": "The most talked-about and the hardest to start: building the app is easy; getting people to pay every month isn’t.",
+   "curta": "The most talked-about and hardest to start: building the app has become easy; getting people to pay every month has not.",
    "texto": [
-    "You build software with help from AI and charge a monthly subscription for people to use it. The potential is enormous, it can grow with a small team, and that’s why it’s the business that shows up most often in success stories.",
-    "The problem is that building has become the cheap part. Thousands of apps launch every week, but people’s attention hasn’t grown. The real business is getting discovered, convincing people to pay, and preventing cancellations. As usage grows, security and infrastructure costs add up. And an app that’s just a shell around a model can die with the platform’s next update."
+    "You build software with AI and charge people a monthly fee to use it. The potential is enormous, it can grow with a small team, and that is why it is the business that shows up most in success stories.",
+    "The problem is that building has become the cheap part. It has never been easier to launch an app, which means more competitors are fighting for the same attention. The real work is getting discovered, convincing people to pay, and keeping them from canceling. As usage grows, security and infrastructure costs add up. And an app that is just a thin layer over a model can die with the platform’s next update."
    ],
    "preco": "R$ 29 to R$ 299 per month per client; you need hundreds of clients to make a living from it.",
-   "para_quem": "People who already have an audience, a service business, or enough cash to get through months without revenue.",
+   "para_quem": "People who already have an audience, a service business, or enough cash to go months without revenue.",
    "armadilha": "Building before you have buyers. Most SaaS businesses that grow started as a service that was already selling.",
    "comecar": [
     "Sell the solution as a hands-on service to 3 clients",
     "Write down what repeats across all of them",
     "Only then turn the repeated part into an app"
    ],
-   "oferta": "I handle [task] for [type of company] for a monthly fee, with nothing for you to install.",
+   "oferta": "I solve [task] for [type of business] for a monthly fee, with nothing for you to install.",
    "kpi": "Paying clients and monthly cancellations",
    "rel": [
     {
      "t": "curso",
-     "nome": "Vibe Coding Immersion — from zero to SaaS",
+     "nome": "Immersion: From Zero to an AI App",
      "url": "https://inematds.github.io/vibecode-imersao/",
-     "d": "From prototype to product with AI, step by step."
+     "d": "Go from prototype to AI-powered product, step by step."
     },
     {
      "t": "projeto",
@@ -143,34 +145,34 @@
     "mer": 2,
     "dur": 1
    },
-   "curta": "Cheap to start and great for learning, but views alone don’t pay the bills.",
+   "curta": "Cheap to start and good for learning, but views alone do not pay the bills.",
    "texto": [
-    "A YouTube, TikTok, or Instagram account where AI helps create the content and you don’t appear on camera. The startup cost is almost zero, and you can test several formats in a short time.",
-    "The money doesn’t come from views; it comes from people who want to reach that audience: sponsors, your own product, or a paid community. Mass-produced repetitive content isn’t monetized by platforms, and viral content without a defined audience won’t attract anyone willing to pay. First think about who watches and who would pay to reach them."
+    "A YouTube, TikTok, or Instagram account where AI helps create the content and you stay off camera. Startup costs are almost zero, and you can test several formats quickly.",
+    "The money does not come from views; it comes from people who want to reach that audience: sponsors, your own products, or a paid community. Platforms do not monetize mass-produced repetitive content, and viral content without a defined audience does not attract anyone willing to pay. Start by thinking about who watches and who would pay to reach them."
    ],
-   "preco": "Sponsorships from R$ 300 to R$ 5.000 per post when the audience is niche and engaged.",
+   "preco": "Sponsorships of R$ 300 to R$ 5,000 per post when the audience is engaged and focused on a niche.",
    "para_quem": "People who want to learn to create with AI and are willing to build an audience for months before earning money.",
-   "armadilha": "Choosing a topic based on what goes viral instead of who would pay to reach that audience. And the platform can change the rules overnight.",
+   "armadilha": "Choosing a topic for its viral potential instead of thinking about who would pay to reach that audience. The platform can also change its rules overnight.",
    "comecar": [
-    "Choose a niche with clear advertisers (finance, health, tools)",
+    "Choose a specific topic with clear advertisers (finance, health, tools)",
     "Post 1 video a day for 30 days",
     "List 10 brands that advertise in that niche"
    ],
-   "oferta": "My channel talks to [audience] every day; your product reaches them for [price].",
+   "oferta": "My channel reaches [audience] every day; your product gets in front of them for [price].",
    "kpi": "Niche followers and sponsorship price per post",
    "rel": [
     {
      "t": "projeto",
      "nome": "video-sem-rosto",
      "url": "https://inematds.github.io/video-sem-rosto/guia/",
-     "d": "16:9 video without a camera or avatar, with locally generated voice.",
+     "d": "Create 16:9 videos without a camera or avatar, using a local voice.",
      "i18n": true
     },
     {
      "t": "projeto",
      "nome": "clone-viral-hypit",
      "url": "https://inematds.github.io/clone-viral-hypit/guia/",
-     "d": "Find out what goes viral in your niche and make your own version."
+     "d": "Find what goes viral in your niche and make your own version."
     }
    ]
   },
@@ -185,34 +187,34 @@
     "mer": 2,
     "dur": 1
    },
-   "curta": "The best place for a beginner to start: quick, visual, and easy to show. But there’s a low ceiling.",
+   "curta": "The best place for beginners to start: fast, visual, and easy to show. But there is a low ceiling.",
    "texto": [
-    "You build websites for small businesses in an afternoon using AI tools instead of taking weeks. You can put together a demo of the client’s own website before talking to them, which changes the conversation: they see it finished before paying.",
-    "Agencies still charge a lot for the old way of doing things, so you can enter at a lower price and deliver faster. The limit is that AI website builders cost just a few dozen reais a month, and the client will find out. Use this to build momentum, a portfolio, and your first clients, then move up."
+    "You build websites for small businesses with AI tools in an afternoon instead of taking weeks. You can create a demo of the client’s own website before speaking with them, which changes the conversation: they see it finished before paying.",
+    "Agencies still charge high prices for the old way of doing things, so you can enter at a lower price and deliver faster. The limit is that AI website builders cost just a few dozen reais a month, and the client will find out. Use this business to build momentum, a portfolio, and your first clients, then move up."
    ],
-   "preco": "R$ 1.500 to R$ 5.000 per website, plus R$ 100 to R$ 300 per month for maintenance.",
+   "preco": "R$ 1,500 to R$ 5,000 per website, plus R$ 100 to R$ 300 per month for maintenance.",
    "para_quem": "Complete beginners who want a first client quickly and something visual to show.",
-   "armadilha": "Selling only websites. It’s hard to get past a few thousand reais a month.",
+   "armadilha": "Selling only websites. It is hard to get past a few thousand reais a month.",
    "comecar": [
-    "Choose 10 local businesses with a bad website or no website",
-    "Build a demo for 3 of them in 20 minutes each",
+    "Choose 10 local businesses with poor or no websites",
+    "Make a demo for 3 of them in 20 minutes each",
     "Send the link and offer to publish it"
    ],
    "oferta": "I made a new version of your website; if you like it, I can publish it this week.",
-   "kpi": "Inbound inquiries through the website per month",
+   "kpi": "Inbound inquiries from the website per month",
    "rel": [
     {
      "t": "projeto",
      "nome": "site-inspirado",
      "url": "https://inematds.github.io/site-inspirado/guia/",
-     "d": "References become a style, images, and a website ready to show.",
+     "d": "Turn references into a style, images, and a website ready to show.",
      "i18n": true
     },
     {
      "t": "projeto",
      "nome": "inemaseo-metodo",
      "url": "https://inematds.github.io/inemaseo-metodo/guia/",
-     "d": "Help the client’s website show up on Google and in AI searches.",
+     "d": "Help your client’s website show up on Google and in AI search results.",
      "i18n": true
     }
    ]
@@ -222,39 +224,39 @@
    "pos": 10,
    "emoji": "🧩",
    "degrau": 2,
-   "nome": "Company AI hub",
+   "nome": "Company-wide AI hub",
    "notas": {
     "tec": 3,
     "mer": 4,
     "dur": 2
    },
-   "curta": "A great way to get inside a company and build trust, but hard to connect to a financial result.",
+   "curta": "A great way to get inside a company and earn trust, but hard to tie to a financial result.",
    "texto": [
-    "You bring the agents, automations, tools, and team knowledge together in one place: an assistant that knows the documents and processes and responds through the channel the company already uses.",
-    "It’s an excellent entry point because once clients trust you, they’ll buy larger projects. The weak point is measurement. Every offer needs a number the owner tracks (sales, hours, customer interactions), and a generic hub doesn’t move a clear number. It also only works if the owner already believes in AI; otherwise, the team won’t change its habits and you won’t have a case study."
+    "You bring the company’s agents, automations, tools, and team knowledge together in one place: an assistant that knows its documents and processes and responds through the channel the company already uses.",
+    "It is an excellent entry point because once a client trusts you, they will buy larger projects. The weak point is measurement. Every offer needs a metric the owner tracks (sales, hours, service interactions), and a generic hub does not move a clear metric. It also only works if the owner already believes in AI; otherwise, the team will not change its habits and you will have no case study."
    ],
-   "preco": "R$ 5.000 to R$ 20.000 for setup, plus R$ 800 to R$ 3.000 per month.",
-   "para_quem": "People who already know agents and automations and have access to tech-friendly business owners.",
-   "armadilha": "Selling the hub without tying it to a number. Without measured results, there are no referrals.",
+   "preco": "R$ 5,000 to R$ 20,000 to set up, plus R$ 800 to R$ 3,000 per month.",
+   "para_quem": "People who already know agents and automations and have access to tech-minded business owners.",
+   "armadilha": "Selling the hub without tying it to a metric. Without measured results, you will not get referrals.",
    "comecar": [
     "Choose a process with a clear metric (e.g., response time)",
     "Build the hub just for that process",
-    "Measure the before and after for 2 weeks"
+    "Measure before and after for 2 weeks"
    ],
-   "oferta": "I put everything your team asks about into one assistant, and response time is cut in half.",
+   "oferta": "I bring everything your team asks about into one assistant, and we measure how much response time drops.",
    "kpi": "Hours saved per week across the team",
    "rel": [
     {
      "t": "projeto",
      "nome": "inema-agent-runtime",
      "url": "https://inematds.github.io/inema-agent-runtime/guia/",
-     "d": "A foundation for running company agents in one place."
+     "d": "A foundation for running a company’s assistants in one place."
     },
     {
      "t": "projeto",
      "nome": "claude-escritorio",
      "url": "https://inematds.github.io/claude-escritorio/guia/",
-     "d": "An assistant that works with the office’s files.",
+     "d": "An assistant that works with your office files.",
      "i18n": true
     }
    ]
@@ -264,33 +266,33 @@
    "pos": 9,
    "emoji": "🔎",
    "degrau": 2,
-   "nome": "Show up in AI answers (GEO)",
+   "nome": "Get your brand into AI answers (GEO)",
    "notas": {
     "tec": 2,
     "mer": 3,
     "dur": 2
    },
-   "curta": "It’s SEO for the ChatGPT era: money is coming in and few people are doing it, but you need to know how to prove results.",
+   "curta": "SEO for the ChatGPT era: money is coming in and few people are doing it, but you need to know how to prove results.",
    "texto": [
-    "You work to get a client’s brand recommended when someone asks ChatGPT, Gemini, Claude, or Perplexity a question. It’s an extension of SEO, a market that has existed for decades and that companies know they need to pay for.",
-    "People who already do SEO have a major advantage because they know how to measure and show results. Without that foundation, it’s hard to prove the change came from your work. And AI companies have started selling ads, which could change the rules about who shows up."
+    "You work to get a client’s brand recommended when someone asks ChatGPT, Gemini, Claude, or Perplexity a question. It is the next step in SEO (the work of getting a website to show up on Google), a market that has existed for decades and that companies know they need to pay for.",
+    "People who already do SEO have a huge advantage because they know how to measure and show results. Without that foundation, it is hard to prove the change came from your work. And the rules for which brands appear in answers can change at any time."
    ],
-   "preco": "R$ 2.000 to R$ 6.000 per month per client.",
+   "preco": "R$ 2,000 to R$ 6,000 per month per client.",
    "para_quem": "People who already work in SEO, content, or digital marketing.",
-   "armadilha": "Promising a position in an AI answer. Promise the work and show the measured progress.",
+   "armadilha": "Promising a spot in an AI answer. Promise the work and show measured progress.",
    "comecar": [
-    "Ask 3 AIs 20 questions about the client’s industry and note which brands appear",
-    "Fix the website, data, and pages the AI reads",
-    "Repeat the 20 questions after 30 days"
+    "Ask 3 AI systems 20 questions about the client’s industry and note which brands appear",
+    "Improve the website, data, and pages that the AI reads",
+    "Ask the 20 questions again after 30 days"
    ],
-   "oferta": "Today, AI recommends your competitor when people ask about [service]. In 90 days, I’ll change that, and you can track the results.",
-   "kpi": "How many of the 20 questions the brand appears in",
+   "oferta": "Today, AI recommends your competitor when people ask about [service]. I work to change that and show you the measurements every month.",
+   "kpi": "How many of the 20 questions mention the brand",
    "rel": [
     {
      "t": "projeto",
      "nome": "inemaseo-metodo",
      "url": "https://inematds.github.io/inemaseo-metodo/guia/",
-     "d": "SEO + GEO method for Google, Bing, and AI searches.",
+     "d": "An SEO + GEO method for Google, Bing, and AI search.",
      "i18n": true
     },
     {
@@ -312,33 +314,33 @@
     "mer": 3,
     "dur": 2
    },
-   "curta": "Demand keeps growing, but ready-made workflows have become a commodity. The value is in finding the bottleneck.",
+   "curta": "Demand keeps growing, but ready-made workflows have become a commodity. The value lies in finding the bottleneck.",
    "texto": [
-    "You connect AI to the systems the company already uses: CRM, email, spreadsheets, invoices, WhatsApp. It’s where many people started and is still where service requests come from most often.",
-    "But building automations is getting easier and easier, and many companies already hire someone internally to do it. A one-off workflow is worth little. What matters is finding the most expensive bottleneck, tying the fix to a business result, and charging for that result — and that’s already the consulting step."
+    "You connect AI to the systems a company already uses: its customer management system (CRM), email, spreadsheets, invoicing, and WhatsApp. It is where many people started, and it is still where service requests are most common.",
+    "But building automations is getting easier, and many companies already hire someone in-house to do it. A standalone workflow is worth little. What matters is finding the most costly bottleneck, tying the fix to a business result, and charging for that result — and that is already the consulting step."
    ],
-   "preco": "R$ 1.500 to R$ 6.000 per workflow; more when charging based on results.",
-   "para_quem": "People who like logic and tools and want a service with steady demand.",
+   "preco": "R$ 1,500 to R$ 6,000 per workflow; more when priced based on results.",
+   "para_quem": "People who enjoy logic and tools and want a service with steady demand.",
    "armadilha": "Selling one workflow at a time and competing on price with thousands of people.",
    "comecar": [
-    "Ask the client which task takes up the most team time",
-    "Automate just that task and measure before and after",
+    "Ask the client which task takes the most team time",
+    "Automate only that task, measuring before and after",
     "Use the result to sell a fix for the next bottleneck"
    ],
-   "oferta": "Your team spends [X] hours a week on [task]. I’ll take that off their hands in 15 days.",
-   "kpi": "Hours per week returned to the team",
+   "oferta": "Your team spends [X] hours a week on [task]. I automate it and show you the hours given back.",
+   "kpi": "Hours returned to the team each week",
    "rel": [
     {
      "t": "curso",
      "nome": "n8n Automation Fundamentals",
      "url": "https://inematds.github.io/N8Nb/",
-     "d": "Nodes, API connections, and RAG for building workflows."
+     "d": "Build automations that connect your systems, step by step."
     },
     {
      "t": "projeto",
      "nome": "raio-x-margem",
      "url": "https://inematds.github.io/raio-x-margem/guia/",
-     "d": "Find where the business is losing money and show it in reais."
+     "d": "Find where a business is losing money and show it in reais."
     }
    ]
   },
@@ -353,25 +355,25 @@
     "mer": 3,
     "dur": 3
    },
-   "curta": "You get paid to teach and leave the room as the company’s “AI person.”",
+   "curta": "You get paid to teach and leave the room as “the AI person” at the company.",
    "texto": [
-    "You teach a company’s team how to use AI in each person’s work, using their real cases. Most employees say they haven’t received proper training, and companies know it.",
-    "The bigger payoff comes later. In the room, you see the company’s problems and build trust immediately. A larger project often follows the workshop. Teaching is a skill you can practice, and you need to master the tools you teach."
+    "You teach a company’s team to use AI in their daily work, using the company’s real cases. At many companies, the team already uses AI on its own without training, and the owner knows it.",
+    "The bigger payoff comes afterward. In the room, you see the company’s problems and earn trust right away. A larger project often follows the workshop. Teaching is a skill you can practice, and you need to know the tools you teach."
    ],
-   "preco": "R$ 3.000 for a half day to R$ 15.000 for a full day with a large group.",
-   "para_quem": "People who like explaining things, speak well in public, and already use AI in their own work.",
-   "armadilha": "A generic “ChatGPT for beginners” workshop. Bring in the company’s own cases, or no one will use it the next day.",
+   "preco": "R$ 3,000 for a half day to R$ 15,000 for a full day with a large group.",
+   "para_quem": "People who enjoy explaining things, speak well in public, and already use AI in their own work.",
+   "armadilha": "A generic “ChatGPT for beginners” workshop. Bring the company’s own cases, or nobody will use it the next day.",
    "comecar": [
     "Build a 3-hour workshop with 5 real use cases for one industry",
-    "Run the first one for free or at a low price in exchange for a testimonial",
-    "Always finish with a diagnosis of what can be automated"
+    "Run the first one free or at a low price in exchange for a testimonial",
+    "Always end with a diagnosis of what can be automated"
    ],
-   "oferta": "In 3 hours, your team will leave using AI for [5 industry tasks], with materials to keep going.",
+   "oferta": "In 3 hours, your team will start using AI for [5 tasks in your industry], with materials to keep going.",
    "kpi": "People using AI at work 30 days later",
    "rel": [
     {
      "t": "curso",
-     "nome": "PHA 2030",
+     "nome": "PHA 2030 — People Ready for AI",
      "url": "https://inematds.github.io/pha2030-aula/",
      "d": "Prepare people and companies to adopt AI thoughtfully."
     },
@@ -388,27 +390,27 @@
    "pos": 6,
    "emoji": "📞",
    "degrau": 2,
-   "nome": "AI customer service and receptionist",
+   "nome": "AI receptionist and customer service agent",
    "notas": {
     "tec": 3,
     "mer": 4,
     "dur": 2
    },
-   "curta": "AI that handles WhatsApp, phone calls, and websites, books appointments, and hands off to a human. In Brazil, WhatsApp makes this business a top opportunity.",
+   "curta": "AI that handles WhatsApp, phone, and website inquiries, books appointments, and hands off to a human. In Brazil, WhatsApp puts this business near the top.",
    "texto": [
-    "AI responds to messages, phone calls, and website chat, answers questions, books appointments, and brings in a person when needed. The return is easy to explain: many calls and messages to small businesses go unanswered, and for a clinic, repair shop, or office, each one is a lost client.",
-    "In Brazil, where almost everything goes through WhatsApp, the pain is even more obvious. The risk is durability: the scheduling and customer service systems these businesses already pay for are adding their own AI. The winners will be people who know the industry and take care of setup, rules, and ongoing support."
+    "AI responds to messages, phone calls, and website chats, answers questions, books appointments, and calls a person when needed. It is easy to explain the return: the owner only has to count how many messages and calls went unanswered last month, and for a clinic, repair shop, or office, each one could be a lost client.",
+    "In Brazil, where almost everything goes through WhatsApp, the pain is even more visible. The risk is durability: scheduling and customer service systems these businesses already pay for are adding their own AI. The winners will be the people who know the industry and take care of setup, rules, and ongoing support."
    ],
-   "preco": "R$ 2.000 to R$ 8.000 for setup, plus R$ 500 to R$ 2.000 per month.",
-   "para_quem": "People who want a service with recurring monthly revenue and results that are easy to show the owner.",
+   "preco": "R$ 2,000 to R$ 8,000 to set up, plus R$ 500 to R$ 2,000 per month.",
+   "para_quem": "People who want a recurring service and results that are easy for the owner to see.",
    "armadilha": "Selling the same generic AI to everyone. The system the client already uses will offer the same thing for less.",
    "comecar": [
     "Choose an industry (clinic, repair shop, salon)",
     "Build the demo around real questions from that industry",
     "Show the owner how many messages went unanswered last month"
    ],
-   "oferta": "None of your messages go unanswered, even at 10 p.m.; AI books the appointment and calls you when needed.",
-   "kpi": "Messages and calls answered and appointments booked",
+   "oferta": "Your clinic responds to every message, even at 10 p.m.: AI books the appointment and calls you when needed.",
+   "kpi": "Messages and calls answered, and appointments booked",
    "rel": [
     {
      "t": "projeto",
@@ -421,14 +423,14 @@
      "t": "projeto",
      "nome": "atende-leads",
      "url": "https://inematds.github.io/atende-leads/guia/",
-     "d": "WhatsApp leads are sent immediately to the available team member.",
+     "d": "WhatsApp leads are routed immediately to an available team member.",
      "i18n": true
     },
     {
      "t": "projeto",
      "nome": "atende-academia",
      "url": "https://inematds.github.io/atende-academia/guia/",
-     "d": "Gym: memberships, available classes, and WhatsApp check-in."
+     "d": "For gyms: plans, available classes, and check-in through WhatsApp."
     }
    ]
   },
@@ -443,20 +445,20 @@
     "mer": 4,
     "dur": 3
    },
-   "curta": "Ads, videos, and carousels for brands. Anyone can hit “generate”; clients pay for taste and results.",
+   "curta": "Ads, videos, and carousels for brands. Anyone can press “generate”; clients pay for taste and results.",
    "texto": [
-    "You create ads, commercials, carousels, and video edits for brands using AI. One person can do today what used to require a team and expensive equipment, and AI video editing is among the most in-demand skills.",
-    "The flip side is that anyone can hit the generate button, including inside the ad tools themselves, and the price per piece is falling. Clients pay for taste, for knowing which model works for which audience, and for using each ad’s numbers to make the next one better. If your ads sell, the client stays."
+    "You produce ads, commercials, carousels, and video edits for brands with AI. One person can now do what used to require a team and expensive equipment.",
+    "The other side is that anyone can press the generate button, including inside the ad platforms themselves, and the price per asset is falling. Clients pay for taste, for knowing which model suits which audience, and for using each ad’s numbers to make the next one better. If your ads sell, the client will stay."
    ],
-   "preco": "R$ 2.000 to R$ 8.000 per month per brand, in a package of creative assets.",
-   "para_quem": "People with a good eye for visuals who like video and want to track ad performance.",
-   "armadilha": "Selling individual pretty assets. Sell a monthly package tied to campaign results.",
+   "preco": "R$ 2,000 to R$ 8,000 per month per brand, packaged by deliverables.",
+   "para_quem": "People with a good eye for visuals who enjoy video and want to track ad performance.",
+   "armadilha": "Selling attractive assets one at a time. Sell a monthly package tied to campaign results.",
    "comecar": [
-    "Recreate 3 ads from a brand you admire",
-    "Offer a 10-piece trial package",
-    "Show the result of each piece and adjust the next one"
+    "Rework 3 ads from a brand you admire",
+    "Offer a 10-asset trial package",
+    "Show the results of each asset and adjust the next one"
    ],
-   "oferta": "Every month, you get [N] new ads, and I replace the ones that don’t sell with ones that do.",
+   "oferta": "Every month, you get [N] new ads, and I replace the ones that do not sell with ones that do.",
    "kpi": "Cost per sale or per lead from campaigns",
    "rel": [
     {
@@ -470,13 +472,13 @@
      "t": "projeto",
      "nome": "video-codigo",
      "url": "https://inematds.github.io/video-codigo/guia/",
-     "d": "Create videos with code and locally generated voice, without paid generators."
+     "d": "Create videos with code and a local voice, without a paid generator."
     },
     {
      "t": "curso",
      "nome": "Monetization for Creators",
      "url": "https://inematds.github.io/curso-monetizacao-criadores/",
-     "d": "Budgets, packages, and portfolios for selling production work."
+     "d": "Pricing, packages, and portfolios for selling creative production."
     }
    ]
   },
@@ -485,27 +487,27 @@
    "pos": 4,
    "emoji": "🎯",
    "degrau": 3,
-   "nome": "AI-powered lead generation",
+   "nome": "AI lead generation",
    "notas": {
     "tec": 4,
     "mer": 3,
     "dur": 5
    },
-   "curta": "The clearest result on the list: more leads, more sales. If it works, no one cancels.",
+   "curta": "The clearest result on the list: more leads, more sales. If it works, nobody cancels.",
    "texto": [
-    "You use AI to find companies and people showing buying signals, enrich the data, personalize outreach, and test far more messages than a human team could. You deliver meetings or qualified leads to the client.",
-    "It’s the “stickiest” business: if you bring in clients and your client makes money from them, they won’t cancel. The metric is the easiest to measure. The requirement is tough: you need to generate your own clients first, or no one will believe you can generate theirs. People who already have a prospecting agency and add AI have a head start."
+    "You use AI to find businesses and people showing buying signals (an open position, a new store, an expansion), fill in their contact details, personalize your outreach, and test far more messages than a human team could. You deliver meetings or genuinely interested leads to the client.",
+    "It is the “stickiest” business: if you bring in clients and the client makes money from them, they will not cancel. The metric is the easiest to measure. But the requirement is tough: you need to generate your own clients first, or nobody will believe you can generate theirs. People who already run a prospecting agency and add AI have a head start."
    ],
-   "preco": "R$ 3.000 to R$ 10.000 per month, or a fee per meeting booked.",
-   "para_quem": "People who like sales, numbers, and testing, and are willing to prove the method on themselves.",
-   "armadilha": "Mass outreach without a clear purpose. It burns the domain, the client’s WhatsApp number, and their reputation.",
+   "preco": "R$ 3,000 to R$ 10,000 per month, or a fee per meeting booked.",
+   "para_quem": "People who enjoy sales, numbers, and testing, and are willing to prove the method on themselves.",
+   "armadilha": "Mass outreach without targeting. It can send the client’s email and WhatsApp number to spam or get them blocked, damaging their reputation.",
    "comecar": [
-    "Use the method to land your first 3 clients",
-    "Choose an industry and a buying signal (open job, new store, expansion)",
-    "Offer 30 days paid per meeting booked"
+    "Use the method to get your first 3 clients",
+    "Choose an industry and a buying signal (open position, new store, expansion)",
+    "Offer a paid 30-day trial, charging per meeting booked"
    ],
-   "oferta": "I’ll put [N] meetings with [type of client] on your calendar each month. You pay for what happens.",
-   "kpi": "Meetings booked and deals closed per month",
+   "oferta": "I find [type of client] for your calendar, and you pay for the meetings that happen.",
+   "kpi": "Meetings booked and sales closed per month",
    "rel": [
     {
      "t": "projeto",
@@ -518,7 +520,7 @@
      "t": "projeto",
      "nome": "atende-leads",
      "url": "https://inematds.github.io/atende-leads/guia/",
-     "d": "Every incoming lead gets an immediate response.",
+     "d": "Every incoming lead gets a response right away.",
      "i18n": true
     }
    ]
@@ -534,20 +536,20 @@
     "mer": 3,
     "dur": 5
    },
-   "curta": "The most durable of all: people who trust you follow you when the tools change. But it takes years.",
+   "curta": "The most durable of all: people who trust you will follow you when the tools change. But it takes years.",
    "texto": [
-    "Courses, community, newsletters, and videos, preferably with your face and voice. You need to work with the subject every day to teach it, or at least feel comfortable on camera. Competition is growing, but so is the audience that wants to learn.",
-    "It’s the most durable business because people invest in you, not a tool: when the technology changes, you change with it and they stay. The problem is the timeline. Building an audience takes years, and trust comes from proof. That’s why the common path is to provide services and consulting first, then use your brand to launch the other businesses."
+    "Courses, communities, newsletters, and videos, ideally featuring your face and voice. You need to work with the subject day to day to teach it, or at least feel comfortable on camera. Competition is growing, but so is the number of people who want to learn.",
+    "It is the most durable business because people invest in you, not in a tool: when technology changes, you change with it and they stay. The problem is speed. Building an audience takes years, and trust comes from proof. That is why a common path is to offer services and consulting first, then build your brand to launch the other businesses."
    ],
-   "preco": "From one-off courses to a community subscription; it depends on the size and trust of the audience.",
-   "para_quem": "People with hands-on experience to show, who enjoy teaching and can keep building over time.",
+   "preco": "From one-off courses to a community subscription; it depends on the audience’s size and trust.",
+   "para_quem": "People with experience to share who enjoy teaching and are willing to build gradually.",
    "armadilha": "Starting with a brand before you have proof. First results, then trust, then an audience.",
    "comecar": [
-    "Document one real case you solved every week",
-    "Post on the same channel, on the same day, for 90 days",
-    "Bring anyone who responds to your own mailing list or group"
+    "Document a real problem you solved each week",
+    "Publish on the same channel, on the same day, for 90 days",
+    "Bring the people who respond to a mailing list or group you own"
    ],
-   "oferta": "Every week, I show how to solve [problem] with AI, using real cases.",
+   "oferta": "Every week, I show you how to solve [problem] with AI, using real cases.",
    "kpi": "People on your mailing list or in your community",
    "rel": [
     {
@@ -570,37 +572,37 @@
    "pos": 2,
    "emoji": "🩺",
    "degrau": 3,
-   "nome": "AI consulting and diagnosis",
+   "nome": "AI consulting and diagnostics",
    "notas": {
     "tec": 3,
     "mer": 4,
     "dur": 4
    },
-   "curta": "You’re the doctor: learn how the company works, find the bottleneck, and prescribe where AI will save the most.",
+   "curta": "You are the doctor: learn how the company works, find the bottleneck, and prescribe where AI will save the most.",
    "texto": [
-    "You go into a company, understand its processes, find the bottleneck, and identify where AI can save the most time or money. Fixes get cheaper every month; diagnosis still has value. And there’s the human part no AI can solve: convincing the team, setting usage rules, and helping people change their habits.",
-    "AI companies themselves have opened service divisions to deploy their tools in businesses, a sign that implementation is where the work is. Consulting pays sooner than education and opens the door to automation, customer service, and training projects."
+    "You go into the company, understand its processes, find the bottleneck, and recommend where AI can save the most time or money. Fixes get cheaper every month; diagnosis still has value. And there is the human part no AI can handle: persuading the team, setting usage rules, and helping people change their habits.",
+    "Implementing AI properly in a company takes work, and most of the value lies in that implementation. Consulting pays off faster than education and creates opportunities for automation, customer service, and training projects."
    ],
-   "preco": "Diagnosis from R$ 3.000 to R$ 30.000, plus implementation.",
+   "preco": "A diagnostic engagement costs R$ 3,000 to R$ 30,000, plus implementation.",
    "para_quem": "People who understand business, ask good questions, and have already delivered a few AI projects.",
-   "armadilha": "Delivering a polished report and leaving. Clients pay for change, not for a PDF.",
+   "armadilha": "Handing over a polished report and leaving. The client pays for change, not for a PDF.",
    "comecar": [
-    "Offer a 1-day diagnosis for a fixed price",
-    "Deliver 3 opportunities with estimated savings in reais",
+    "Offer a one-day diagnostic at a fixed price",
+    "Identify 3 opportunities with estimated savings in reais",
     "Propose implementing the first one with a measurable target"
    ],
-   "oferta": "In one week, I’ll show you where AI can save your company the most, in reais, and implement the first opportunity.",
+   "oferta": "In one week, I will show you where AI can save the most in your company, in reais, and implement the first solution.",
    "kpi": "Reais saved or earned per month after implementation",
    "rel": [
     {
      "t": "curso",
-     "nome": "Client Map (DICA method)",
+     "nome": "Client Map (DICA Method)",
      "url": "https://inematds.github.io/mapacliente/",
-     "d": "Trains AI consultants for small businesses."
+     "d": "Train as an AI consultant for small businesses."
     },
     {
      "t": "curso",
-     "nome": "AI Consulting: from diagnosis to delivery",
+     "nome": "AI Consulting: From Diagnosis to Delivery",
      "url": "https://inematds.github.io/formacao-vendas-ia-consultoria/",
      "d": "Diagnosis, solution design, pricing, delivery, and growth."
     },
@@ -608,7 +610,7 @@
      "t": "projeto",
      "nome": "empresa-de-ia",
      "url": "https://inematds.github.io/empresa-de-ia/guia/",
-     "d": "A kit for bringing AI to small and medium-sized businesses.",
+     "d": "A toolkit for bringing AI to small and medium-sized businesses.",
      "i18n": true
     }
    ]
@@ -618,27 +620,27 @@
    "pos": 1,
    "emoji": "🧭",
    "degrau": 4,
-   "nome": "AI director (in-house or fractional)",
+   "nome": "AI Director (in-house or fractional)",
    "notas": {
     "tec": 4,
     "mer": 5,
     "dur": 5
    },
-   "curta": "The top step: take responsibility for a company’s AI strategy, or several companies’ strategies at once.",
+   "curta": "The top role: take responsibility for a company’s AI strategy, or for several companies at once.",
    "texto": [
-    "There are two equally good paths. Become the AI lead at the company where you already work and take responsibility for its strategy and results. Or work as a fractional director, serving a few companies at once for a few hours a week each. This is often the natural next step for someone who has done consulting.",
-    "Large companies are creating this role quickly, and professionals with AI skills already earn more than their peers. It requires knowing enough not to be caught off guard and carrying yourself like an executive. The further AI advances, the more valuable it becomes to decide how to use it."
+    "There are two equally good paths. Become the AI lead at the company where you already work, and take responsibility for strategy and results. Or work as a fractional director, serving a few companies at a time for several hours a week each. This is often the natural next step for someone who has done consulting.",
+    "More and more companies want someone accountable for AI, and people who combine AI knowledge with business perspective tend to be more valued. It requires knowing enough to avoid being caught off guard and carrying yourself like an executive. As AI advances, people who decide how to use it become more valuable."
    ],
-   "preco": "Fractional: R$ 8.000 to R$ 25.000 per month per company. In-house: director-level salary.",
-   "para_quem": "People with management or consulting experience and the trust of business owners and directors.",
-   "armadilha": "Wanting the title without proof. It comes after measured results at other companies.",
+   "preco": "Fractional: R$ 8,000 to R$ 25,000 per month per company. In-house: executive salary.",
+   "para_quem": "People with management or consulting experience and the trust of owners and directors.",
+   "armadilha": "Wanting the title without the proof. It comes after you have delivered measured results at other companies.",
    "comecar": [
     "Choose 1 company where you already have trust",
     "Propose a 90-day engagement with 3 AI-related business goals",
-    "Send the leadership team a monthly results report"
+    "Report results to leadership every month"
    ],
    "oferta": "I manage your company’s AI a few hours a week: strategy, tools, team, and results.",
-   "kpi": "Business goals achieved per quarter",
+   "kpi": "Business goals achieved each quarter",
    "rel": [
     {
      "t": "curso",
@@ -673,7 +675,7 @@
    "emoji": "🔧",
    "nome": "Solve a pain point",
    "vende": "You sell a day-to-day result",
-   "d": "Customer service, automation, creative assets, AI search. Recurring revenue and an easy-to-show metric.",
+   "d": "Customer service, automation, creative assets, AI search. Recurring fees and an easy-to-show metric.",
    "ids": [
     "n06",
     "n08",
@@ -687,7 +689,7 @@
    "emoji": "🩺",
    "nome": "Teach and diagnose",
    "vende": "You sell trust and diagnosis",
-   "d": "Workshops, consulting, and lead generation. Pays better and opens the door to large projects.",
+   "d": "Workshops, consulting, and lead generation. Better pay and a path to bigger projects.",
    "ids": [
     "n07",
     "n02",
@@ -699,7 +701,7 @@
    "emoji": "🧭",
    "nome": "Sell your judgment",
    "vende": "You sell your decisions",
-   "d": "AI director and personal brand. Takes longer to reach, but is harder to replace.",
+   "d": "AI director and personal brand. It takes longer to reach this step, but it is harder to replace.",
    "ids": [
     "n01",
     "n03"
@@ -708,7 +710,7 @@
  ],
  "teste": [
   {
-   "p": "How much time do you have each week for this?",
+   "p": "How much time do you have for this each week?",
    "op": [
     {
      "t": "Less than 10 hours",
@@ -723,12 +725,12 @@
      "s": {
       "n06": 2,
       "n08": 2,
-      "n09": 1,
+      "n09": 2,
       "n05": 1
      }
     },
     {
-     "t": "Full-time",
+     "t": "Full time",
      "s": {
       "n04": 2,
       "n02": 2,
@@ -742,7 +744,7 @@
    "p": "How would you describe your technical skills?",
    "op": [
     {
-     "t": "I use ChatGPT, but I’ve never programmed",
+     "t": "I use ChatGPT, but I have never programmed",
      "s": {
       "n11": 2,
       "n12": 1,
@@ -753,9 +755,9 @@
     {
      "t": "I build automations and configure tools",
      "s": {
-      "n08": 2,
+      "n08": 3,
       "n06": 2,
-      "n09": 1
+      "n09": 2
      }
     },
     {
@@ -788,7 +790,7 @@
      }
     },
     {
-     "t": "Yes, I’ve worked with companies for years",
+     "t": "Yes, I have worked with companies for years",
      "s": {
       "n02": 2,
       "n01": 2,
@@ -798,7 +800,7 @@
    ]
   },
   {
-   "p": "Do you have an audience (followers, a mailing list, or a group)?",
+   "p": "Do you have an audience (followers, mailing list, group)?",
    "op": [
     {
      "t": "No",
@@ -810,7 +812,7 @@
      }
     },
     {
-     "t": "A small one, a few hundred people",
+     "t": "A small one, with hundreds of people",
      "s": {
       "n07": 2,
       "n05": 1,
@@ -828,7 +830,7 @@
    ]
   },
   {
-   "p": "What do you enjoy doing most?",
+   "p": "What do you most enjoy doing?",
    "op": [
     {
      "t": "Creating visual things",
@@ -841,7 +843,7 @@
     {
      "t": "Building systems and workflows",
      "s": {
-      "n08": 2,
+      "n08": 3,
       "n06": 2,
       "n10": 2,
       "n13": 1
@@ -859,8 +861,8 @@
      "s": {
       "n04": 2,
       "n02": 2,
-      "n01": 1,
-      "n09": 1
+      "n09": 2,
+      "n01": 1
      }
     }
    ]
@@ -887,7 +889,7 @@
      }
     },
     {
-     "t": "I can spend 1 year or more building it",
+     "t": "I can build for 1 year or more",
      "s": {
       "n03": 2,
       "n01": 2,
@@ -906,19 +908,19 @@
    "ofertas": [
     {
      "d": 1,
-     "t": "Website with online scheduling and a page for each specialty"
+     "t": "Website with online booking and a page for each specialty"
     },
     {
      "d": 2,
-     "t": "WhatsApp receptionist that books appointments and reminds patients the day before"
+     "t": "WhatsApp agent that books appointments and reminds patients the day before"
     },
     {
      "d": 3,
-     "t": "Diagnosis of missed appointments and reception time, with a target to reduce no-shows"
+     "t": "Analysis of missed appointments and reception times, with a target to reduce no-shows"
     },
     {
      "d": 4,
-     "t": "AI director for a clinic network, managing customer service, medical records, and privacy rules"
+     "t": "AI director for a clinic network, overseeing customer service, medical records, and privacy policies"
     }
    ]
   },
@@ -937,7 +939,7 @@
     },
     {
      "d": 3,
-     "t": "Workshop to help the team use AI in tax workflows, with 5 real cases from the firm"
+     "t": "Workshop to help the team use AI in daily tax work, with 5 examples from the firm"
     },
     {
      "d": 4,
@@ -952,11 +954,11 @@
    "ofertas": [
     {
      "d": 1,
-     "t": "AI-created videos and carousels for each property"
+     "t": "AI-generated videos and carousels for each property"
     },
     {
      "d": 2,
-     "t": "Receptionist that responds to interested buyers right away and schedules a viewing"
+     "t": "Agent that responds to inquiries immediately and schedules viewings"
     },
     {
      "d": 3,
@@ -964,7 +966,7 @@
     },
     {
      "d": 4,
-     "t": "AI strategy for the real estate agency, from lead acquisition through post-sale"
+     "t": "AI strategy for the agency, from lead acquisition through after-sales"
     }
    ]
   },
@@ -975,7 +977,7 @@
    "ofertas": [
     {
      "d": 1,
-     "t": "Website organized by practice area and prepared to show up in AI answers"
+     "t": "Practice-area website optimized to appear in AI answers"
     },
     {
      "d": 2,
@@ -983,11 +985,11 @@
     },
     {
      "d": 3,
-     "t": "Diagnosis of where AI can save hours of research and drafting, with confidentiality rules"
+     "t": "Diagnosis of where AI can save research and drafting hours, with confidentiality rules"
     },
     {
      "d": 4,
-     "t": "Fractional AI director for mid-sized firms"
+     "t": "Fractional AI director for mid-sized law firms"
     }
    ]
   },
@@ -998,7 +1000,7 @@
    "ofertas": [
     {
      "d": 1,
-     "t": "Digital menu and AI-enhanced photos of the dishes"
+     "t": "Digital menu and AI-enhanced food photos"
     },
     {
      "d": 2,
@@ -1006,7 +1008,7 @@
     },
     {
      "d": 3,
-     "t": "Margin analysis: where the restaurant is losing money, in reais"
+     "t": "Profit margin analysis: where the restaurant is losing money, in reais"
     },
     {
      "d": 4,
@@ -1018,19 +1020,19 @@
  "plano": [
   {
    "t": "Week 1",
-   "d": "Choose a business and an industry. Build the demo using a real client’s data, without asking permission."
+   "d": "Choose one business and one industry. Build the demo using the client’s public information (website, social media, menu) or sample data — never private data without permission."
   },
   {
    "t": "Weeks 2 to 4",
-   "d": "Show the demo to 20 businesses in the industry. Land your first client, even at a low price, in exchange for a testimonial and numbers."
+   "d": "Show the demo to 20 companies in the industry. Land your first client, even at a low price, in exchange for a testimonial and metrics."
   },
   {
    "t": "Month 2",
-   "d": "Deliver while measuring before and after. Write a case study showing the number that changed."
+   "d": "Deliver the work while measuring before and after. Write a case study showing what changed."
   },
   {
    "t": "Month 3",
-   "d": "Use the case study to sign 3 more clients and offer the first client the service from the next step up."
+   "d": "Use the case study to sign 3 more clients and offer your first client the service from the next step up."
   }
  ]
 }

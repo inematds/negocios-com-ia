@@ -1,4 +1,4 @@
-# Negocios con IA: los 13 del peor al mejor para empezar — y la escalera para avanzar
+# Negocios con IA: los 13 del peor al mejor, y por dónde empezar
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
 
@@ -6,7 +6,7 @@
 
 ## Qué es
 
-Cada día aparece un nuevo negocio que se puede iniciar con inteligencia artificial, y elegir se ha vuelto más difícil que construir. Esta página evalúa trece de ellos con tres notas del 1 al 5: cuánto conocimiento técnico necesitas para ofrecer algo por lo que alguien pague, cuánto espacio hay en el mercado (más compradores que vendedores) y cuánto dura y crece el negocio sin que una plataforma lo absorba. La lista va del peor al mejor para quienes están empezando. La regla que aparece al final es sencilla: abajo vendes lo que construyes, que cada mes cuesta menos; arriba vendes tu criterio, que cada vez vale más. Por eso la segunda parte es una escalera de cuatro peldaños, con un test de 6 preguntas para encontrar el tuyo, la oferta lista de cada negocio, ejemplos por sector y un plan de 90 días. Los valores en reales son rangos de referencia de lo que se cobra, no una promesa de ganancias.
+Cada día aparece un nuevo negocio que puedes iniciar con inteligencia artificial, y elegir se ha vuelto más difícil que construir. Esta página evalúa trece de ellos con tres calificaciones del 1 al 5: cuánto conocimiento técnico necesitas para entregar algo por lo que alguien pague, cuánto espacio hay en el mercado (más compradores que vendedores) y cuánto dura y crece el negocio sin que una plataforma se lo lleve por delante. La lista va del peor al mejor negocio para construir a largo plazo. Eso no es lo mismo que el mejor para empezar: el primer lugar exige una experiencia que nadie tiene el primer día, y algunos negocios del final de la lista son excelentes para dar el primer paso. La regla que aparece al final es sencilla: abajo vendes lo que construyes, que cada mes cuesta menos; arriba vendes tu criterio, que cada vez vale más. Por eso, la segunda parte es una escalera de cuatro peldaños, con un test de 6 preguntas para encontrar el tuyo, la oferta lista de cada negocio, ejemplos por sector y un plan de 90 días. Los valores en reales son rangos de referencia de lo que se cobra, no una promesa de ingresos.
 
 ## 📖 Página
 

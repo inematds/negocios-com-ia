@@ -1,7 +1,7 @@
 {
   "lang": "pt-BR",
   "ui": {
-    "title": "Negócios com IA: os 13 do pior ao melhor para começar — e a escada para subir",
+    "title": "Negócios com IA: os 13 do pior ao melhor — e por onde começar",
     "description": "Treze negócios que dá para abrir com inteligência artificial, avaliados pelo INEMA em exigência técnica, espaço no mercado e durabilidade. Mais um diagnóstico de 6 perguntas, fichas de oferta por setor e um plano de 90 dias.",
     "brand": "Negócios com IA",
     "nav_ranking": "Ranking",
@@ -9,16 +9,16 @@
     "nav_teste": "Qual é o seu",
     "toggle": "Alternar tema",
     "hero_chip": "13 negócios · 3 notas · 1 escada",
-    "hero_titulo": "Negócios com IA: do <span class=\"amb\">pior ao melhor</span> para começar",
-    "hero_lead": "Treze negócios que dá para abrir hoje com IA, com a nota do INEMA em técnica, mercado e durabilidade — e o caminho para subir de um para o outro.",
+    "hero_titulo": "Negócios com IA: do <span class=\"amb\">pior ao melhor</span> — e por onde começar",
+    "hero_lead": "Treze negócios que dá para abrir hoje com IA, do pior ao melhor para construir, com a nota do INEMA em técnica, mercado e durabilidade — e a escada que mostra por onde entrar e como subir.",
     "cta1": "Ver o ranking",
     "cta2": "Fazer o teste",
     "hero_alt": "Banner Negócios com IA: do pior ao melhor para começar",
     "resumo_chip": "Em resumo",
-    "resumo": "Todo dia aparece um negócio novo para abrir com inteligência artificial, e escolher ficou mais difícil do que construir. Esta página avalia treze deles com três notas de 1 a 5: quanto conhecimento técnico você precisa para entregar algo que alguém pague, quanto espaço existe no mercado (mais compradores do que vendedores) e quanto o negócio dura e cresce sem ser engolido por uma plataforma. A lista vai do pior para o melhor para quem está começando. A regra que aparece no fim é simples: embaixo você vende o que constrói, que fica mais barato a cada mês; em cima você vende o seu julgamento, que fica mais valioso. Por isso a segunda parte é uma escada de quatro degraus, com um teste de 6 perguntas para achar o seu, a oferta pronta de cada negócio, exemplos por setor e um plano de 90 dias. Os valores em reais são faixas de referência do que se cobra, não promessa de ganho.",
+    "resumo": "Todo dia aparece um negócio novo para abrir com inteligência artificial, e escolher ficou mais difícil do que construir. Esta página avalia treze deles com três notas de 1 a 5: quanto conhecimento técnico você precisa para entregar algo que alguém pague, quanto espaço existe no mercado (mais compradores do que vendedores) e quanto o negócio dura e cresce sem ser engolido por uma plataforma. A lista vai do pior ao melhor negócio para construir no longo prazo. Isso não é o mesmo que o melhor para começar: o 1º lugar exige experiência que ninguém tem no primeiro dia, e alguns negócios do fim da lista são ótimos para dar o primeiro passo. A regra que aparece no fim é simples: embaixo você vende o que constrói, que fica mais barato a cada mês; em cima você vende o seu julgamento, que fica mais valioso. Por isso a segunda parte é uma escada de quatro degraus, com um teste de 6 perguntas para achar o seu, a oferta pronta de cada negócio, exemplos por setor e um plano de 90 dias. Os valores em reais são faixas de referência do que se cobra, não promessa de ganho.",
     "notas_chip": "Como lemos as notas",
     "notas_titulo": "Três notas, de 1 a 5",
-    "notas_sub": "Nenhum negócio da lista é ruim: todos funcionam para alguém. As notas mostram que tipo de problema você vai ter.",
+    "notas_sub": "Nenhum negócio da lista é ruim: todos funcionam para alguém. As notas mostram que tipo de problema você vai ter. A posição não é a soma das notas: pesa mais quanto o negócio dura e se ele leva você para o próximo degrau.",
     "n_tec": "Exige técnica",
     "n_tec_d": "Quanto conhecimento você precisa para entregar algo que alguém pague. Nota alta = mais difícil.",
     "n_mer": "Espaço no mercado",
@@ -27,14 +27,14 @@
     "n_dur_d": "Se vira um negócio que fica de pé por anos sem ser engolido por uma plataforma. Nota alta = mais sólido.",
     "rapido_chip": "Com pressa?",
     "rapido_titulo": "Os 13 em uma linha",
-    "rapido_sub": "Do 13º (pior para começar) ao 1º (melhor). Toque num negócio para ver a ficha completa.",
+    "rapido_sub": "Do 13º (pior negócio para construir) ao 1º (melhor). Toque num negócio para ver a ficha completa.",
     "posicao": "Posição",
     "curta": "Em uma frase",
     "explica": "Como funciona",
     "preco": "Quanto se cobra (referência)",
     "para_quem": "Serve para quem",
     "armadilha": "A armadilha",
-    "comecar": "Como começar em 7 dias",
+    "comecar": "Primeiros passos",
     "oferta": "A oferta em uma frase",
     "kpi": "O número que você promete mover",
     "degrau": "Degrau",
@@ -81,34 +81,70 @@
     "foco_titulo": "Escolha um e fique nele",
     "foco_texto": "Quem dá certo raramente escolheu o negócio perfeito na hora perfeita. Escolheu um, aguentou tempo suficiente e não trocou de nicho a cada três semanas. Use o teste para decidir, não para adiar.",
     "rodape": "Conteúdo aberto e gratuito do INEMA.CLUB",
-    "aviso": "Os valores são faixas de referência do que se cobra no Brasil em 2026, não promessa de ganho. Resultado depende de oferta, setor, execução e tempo."
+    "aviso": "Os valores são faixas de referência do que se cobra no Brasil em 2026, não promessa de ganho. Resultado depende de oferta, setor, execução e tempo.",
+    "degrau_nota": "O degrau é outra régua: mostra quanto de prova e confiança você precisa ter para vender aquele negócio. Por isso a ordem da lista e a da escada não são iguais — é na escada que você descobre por onde entrar.",
+    "teste_topo": "Você já está no degrau mais alto: o próximo passo é atender mais empresas ou somar o outro negócio do topo."
   },
-  "notas_legenda": ["muito baixa", "baixa", "média", "alta", "muito alta"],
+  "notas_legenda": [
+    "muito baixa",
+    "baixa",
+    "média",
+    "alta",
+    "muito alta"
+  ],
   "negocios": [
     {
-      "id": "n13", "pos": 13, "emoji": "📱", "degrau": 1,
+      "id": "n13",
+      "pos": 13,
+      "emoji": "📱",
+      "degrau": 1,
       "nome": "Aplicativo por assinatura com IA (SaaS)",
-      "notas": {"tec": 4, "mer": 1, "dur": 3},
+      "notas": {
+        "tec": 4,
+        "mer": 1,
+        "dur": 3
+      },
       "curta": "O mais falado e o mais difícil de começar: fazer o app ficou fácil, fazer gente pagar todo mês não.",
       "texto": [
         "Você constrói um software com ajuda da IA e cobra uma mensalidade para as pessoas usarem. O teto é enorme, dá para crescer com uma equipe pequena, e por isso é o negócio que mais aparece nos vídeos de sucesso.",
-        "O problema é que construir virou a parte barata. Lançam-se milhares de aplicativos por semana e a atenção das pessoas não aumentou. O negócio de verdade é ser encontrado, convencer a pagar e não deixar cancelar. Quando o uso cresce, segurança e infraestrutura cobram a conta. E um app que é só uma casca por cima de um modelo morre na próxima atualização da plataforma."
+        "O problema é que construir virou a parte barata. Nunca foi tão fácil lançar um aplicativo, e por isso nunca houve tantos disputando a mesma atenção. O negócio de verdade é ser encontrado, convencer a pagar e não deixar cancelar. Quando o uso cresce, segurança e infraestrutura cobram a conta. E um app que é só uma casca por cima de um modelo morre na próxima atualização da plataforma."
       ],
       "preco": "R$ 29 a R$ 299 por mês por cliente; precisa de centenas de clientes para viver disso.",
       "para_quem": "Quem já tem público, uma empresa de serviço ou caixa para aguentar meses sem receita.",
       "armadilha": "Construir antes de ter quem compre. A maioria dos SaaS que cresce nasceu de um serviço que já vendia.",
-      "comecar": ["Venda a solução como serviço feito à mão para 3 clientes", "Anote o que se repete em todos", "Só então transforme a parte repetida em app"],
+      "comecar": [
+        "Venda a solução como serviço feito à mão para 3 clientes",
+        "Anote o que se repete em todos",
+        "Só então transforme a parte repetida em app"
+      ],
       "oferta": "Eu resolvo [tarefa] para [tipo de empresa] por uma mensalidade, sem você instalar nada.",
       "kpi": "Clientes pagantes e cancelamentos por mês",
       "rel": [
-        {"t": "curso", "nome": "Imersão Vibe Coding — do zero ao SaaS", "url": "https://inematds.github.io/vibecode-imersao/", "d": "Do protótipo ao produto com IA, passo a passo."},
-        {"t": "projeto", "nome": "inema-business-discovery", "url": "https://inematds.github.io/inema-business-discovery/guia/", "d": "Agentes que testam se a ideia tem comprador antes de você construir."}
+        {
+          "t": "curso",
+          "nome": "Imersão: do zero ao aplicativo com IA",
+          "url": "https://inematds.github.io/vibecode-imersao/",
+          "d": "Do protótipo ao produto com IA, passo a passo."
+        },
+        {
+          "t": "projeto",
+          "nome": "inema-business-discovery",
+          "url": "https://inematds.github.io/inema-business-discovery/guia/",
+          "d": "Agentes que testam se a ideia tem comprador antes de você construir."
+        }
       ]
     },
     {
-      "id": "n12", "pos": 12, "emoji": "🎬", "degrau": 1,
+      "id": "n12",
+      "pos": 12,
+      "emoji": "🎬",
+      "degrau": 1,
       "nome": "Canal sem rosto feito com IA",
-      "notas": {"tec": 2, "mer": 2, "dur": 1},
+      "notas": {
+        "tec": 2,
+        "mer": 2,
+        "dur": 1
+      },
       "curta": "Barato de começar e bom para aprender, mas visualização sozinha não paga conta.",
       "texto": [
         "Um perfil no YouTube, TikTok ou Instagram em que a IA ajuda a fazer o conteúdo e você não aparece. O custo de entrada é quase zero e dá para testar vários formatos em pouco tempo.",
@@ -117,18 +153,40 @@
       "preco": "Patrocínio de R$ 300 a R$ 5.000 por publicação quando o público é de nicho e engajado.",
       "para_quem": "Quem quer aprender a produzir com IA e topa construir audiência por meses antes de ganhar.",
       "armadilha": "Escolher o tema pelo que viraliza, e não por quem pagaria para falar com aquele público. E a plataforma pode mudar a regra da noite para o dia.",
-      "comecar": ["Escolha um nicho com anunciante claro (finanças, saúde, ferramentas)", "Publique 1 vídeo por dia durante 30 dias", "Liste 10 marcas que anunciam nesse nicho"],
+      "comecar": [
+        "Escolha um assunto específico com anunciante claro (finanças, saúde, ferramentas)",
+        "Publique 1 vídeo por dia durante 30 dias",
+        "Liste 10 marcas que anunciam nesse nicho"
+      ],
       "oferta": "Meu canal fala todo dia com [público]; seu produto aparece para eles por [valor].",
       "kpi": "Seguidores do nicho e valor por publicação patrocinada",
       "rel": [
-        {"t": "projeto", "nome": "video-sem-rosto", "url": "https://inematds.github.io/video-sem-rosto/guia/", "d": "Vídeo 16:9 sem câmera nem avatar, com voz local.", "i18n": true},
-        {"t": "projeto", "nome": "clone-viral-hypit", "url": "https://inematds.github.io/clone-viral-hypit/guia/", "d": "Descubra o que viraliza no nicho e faça a sua versão."}
+        {
+          "t": "projeto",
+          "nome": "video-sem-rosto",
+          "url": "https://inematds.github.io/video-sem-rosto/guia/",
+          "d": "Vídeo 16:9 sem câmera nem avatar, com voz local.",
+          "i18n": true
+        },
+        {
+          "t": "projeto",
+          "nome": "clone-viral-hypit",
+          "url": "https://inematds.github.io/clone-viral-hypit/guia/",
+          "d": "Descubra o que viraliza no nicho e faça a sua versão."
+        }
       ]
     },
     {
-      "id": "n11", "pos": 11, "emoji": "🌐", "degrau": 1,
+      "id": "n11",
+      "pos": 11,
+      "emoji": "🌐",
+      "degrau": 1,
       "nome": "Sites para empresas feitos com IA",
-      "notas": {"tec": 1, "mer": 2, "dur": 1},
+      "notas": {
+        "tec": 1,
+        "mer": 2,
+        "dur": 1
+      },
       "curta": "O melhor lugar para o iniciante começar: rápido, visual e fácil de mostrar. Mas tem teto baixo.",
       "texto": [
         "Você faz o site de pequenas empresas com ferramentas de IA em uma tarde, em vez de semanas. Dá para montar uma demonstração do site do próprio cliente antes de falar com ele, o que muda a conversa: ele vê pronto antes de pagar.",
@@ -137,18 +195,41 @@
       "preco": "R$ 1.500 a R$ 5.000 por site, mais R$ 100 a R$ 300 por mês de manutenção.",
       "para_quem": "Iniciante total que quer o primeiro cliente rápido e algo visual para mostrar.",
       "armadilha": "Ficar só vendendo site. É difícil passar de alguns milhares de reais por mês.",
-      "comecar": ["Escolha 10 negócios do seu bairro com site ruim ou sem site", "Faça a demonstração de 3 deles em 20 minutos cada", "Mande o link e ofereça publicar"],
+      "comecar": [
+        "Escolha 10 negócios do seu bairro com site ruim ou sem site",
+        "Faça a demonstração de 3 deles em 20 minutos cada",
+        "Mande o link e ofereça publicar"
+      ],
       "oferta": "Fiz uma versão nova do seu site; se gostar, eu publico esta semana.",
       "kpi": "Contatos recebidos pelo site por mês",
       "rel": [
-        {"t": "projeto", "nome": "site-inspirado", "url": "https://inematds.github.io/site-inspirado/guia/", "d": "Referências viram estilo, imagens e um site pronto para mostrar.", "i18n": true},
-        {"t": "projeto", "nome": "inemaseo-metodo", "url": "https://inematds.github.io/inemaseo-metodo/guia/", "d": "Coloque o site do cliente para aparecer no Google e nas buscas de IA.", "i18n": true}
+        {
+          "t": "projeto",
+          "nome": "site-inspirado",
+          "url": "https://inematds.github.io/site-inspirado/guia/",
+          "d": "Referências viram estilo, imagens e um site pronto para mostrar.",
+          "i18n": true
+        },
+        {
+          "t": "projeto",
+          "nome": "inemaseo-metodo",
+          "url": "https://inematds.github.io/inemaseo-metodo/guia/",
+          "d": "Coloque o site do cliente para aparecer no Google e nas buscas de IA.",
+          "i18n": true
+        }
       ]
     },
     {
-      "id": "n10", "pos": 10, "emoji": "🧩", "degrau": 2,
+      "id": "n10",
+      "pos": 10,
+      "emoji": "🧩",
+      "degrau": 2,
       "nome": "Central de IA da empresa",
-      "notas": {"tec": 3, "mer": 4, "dur": 2},
+      "notas": {
+        "tec": 3,
+        "mer": 4,
+        "dur": 2
+      },
       "curta": "Ótimo para entrar na empresa e ganhar confiança, difícil de ligar a um resultado em dinheiro.",
       "texto": [
         "Você monta num lugar só os agentes, as automações, as ferramentas e o conhecimento da equipe: um assistente que conhece os documentos, os processos e responde no canal que a empresa já usa.",
@@ -157,140 +238,304 @@
       "preco": "R$ 5.000 a R$ 20.000 na implantação, mais R$ 800 a R$ 3.000 por mês.",
       "para_quem": "Quem já domina agentes e automações e tem acesso a donos que gostam de tecnologia.",
       "armadilha": "Vender a central sem um número ligado a ela. Sem resultado medido, não sai indicação.",
-      "comecar": ["Escolha um processo com número claro (ex.: tempo de resposta)", "Monte a central só para esse processo", "Meça antes e depois por 2 semanas"],
-      "oferta": "Coloco num assistente só tudo o que sua equipe pergunta, e o tempo de resposta cai pela metade.",
+      "comecar": [
+        "Escolha um processo com número claro (ex.: tempo de resposta)",
+        "Monte a central só para esse processo",
+        "Meça antes e depois por 2 semanas"
+      ],
+      "oferta": "Coloco num assistente só tudo o que sua equipe pergunta, e a gente mede quanto o tempo de resposta cai.",
       "kpi": "Horas economizadas por semana na equipe",
       "rel": [
-        {"t": "projeto", "nome": "inema-agent-runtime", "url": "https://inematds.github.io/inema-agent-runtime/guia/", "d": "Base para rodar agentes da empresa num lugar só."},
-        {"t": "projeto", "nome": "claude-escritorio", "url": "https://inematds.github.io/claude-escritorio/guia/", "d": "O assistente que trabalha com os arquivos do escritório.", "i18n": true}
+        {
+          "t": "projeto",
+          "nome": "inema-agent-runtime",
+          "url": "https://inematds.github.io/inema-agent-runtime/guia/",
+          "d": "Base para rodar os assistentes da empresa num lugar só."
+        },
+        {
+          "t": "projeto",
+          "nome": "claude-escritorio",
+          "url": "https://inematds.github.io/claude-escritorio/guia/",
+          "d": "O assistente que trabalha com os arquivos do escritório.",
+          "i18n": true
+        }
       ]
     },
     {
-      "id": "n09", "pos": 9, "emoji": "🔎", "degrau": 2,
+      "id": "n09",
+      "pos": 9,
+      "emoji": "🔎",
+      "degrau": 2,
       "nome": "Aparecer nas respostas da IA (GEO)",
-      "notas": {"tec": 2, "mer": 3, "dur": 2},
+      "notas": {
+        "tec": 2,
+        "mer": 3,
+        "dur": 2
+      },
       "curta": "É o SEO da era do ChatGPT: dinheiro entrando, pouca gente fazendo, mas é preciso saber provar resultado.",
       "texto": [
-        "Você trabalha para que a marca do cliente seja recomendada quando alguém pergunta algo ao ChatGPT, ao Gemini, ao Claude ou ao Perplexity. É a continuação do SEO, um mercado que já existe há décadas e que as empresas sabem que precisam pagar.",
-        "Quem já faz SEO tem vantagem enorme, porque sabe medir e mostrar resultado. Sem essa base, é difícil provar que a mudança veio do seu trabalho. E as próprias empresas de IA começaram a vender anúncio, o que pode mudar as regras de quem aparece."
+        "Você trabalha para que a marca do cliente seja recomendada quando alguém pergunta algo ao ChatGPT, ao Gemini, ao Claude ou ao Perplexity. É a continuação do SEO (o trabalho de fazer um site aparecer no Google), um mercado que já existe há décadas e que as empresas sabem que precisam pagar.",
+        "Quem já faz SEO tem vantagem enorme, porque sabe medir e mostrar resultado. Sem essa base, é difícil provar que a mudança veio do seu trabalho. E as regras de quem aparece nas respostas podem mudar a qualquer momento."
       ],
       "preco": "R$ 2.000 a R$ 6.000 por mês por cliente.",
       "para_quem": "Quem já trabalha com SEO, conteúdo ou marketing digital.",
       "armadilha": "Prometer posição na resposta da IA. Prometa o trabalho e mostre a evolução medida.",
-      "comecar": ["Faça 20 perguntas do setor do cliente a 3 IAs e anote quem aparece", "Corrija site, dados e páginas que a IA lê", "Repita as 20 perguntas depois de 30 dias"],
-      "oferta": "Hoje a IA recomenda seu concorrente quando perguntam por [serviço]. Em 90 dias eu mudo isso, e você acompanha a medição.",
+      "comecar": [
+        "Faça 20 perguntas do setor do cliente a 3 IAs e anote quem aparece",
+        "Corrija site, dados e páginas que a IA lê",
+        "Repita as 20 perguntas depois de 30 dias"
+      ],
+      "oferta": "Hoje a IA recomenda seu concorrente quando perguntam por [serviço]. Eu trabalho para mudar isso e mostro a medição todo mês.",
       "kpi": "Em quantas das 20 perguntas a marca aparece",
       "rel": [
-        {"t": "projeto", "nome": "inemaseo-metodo", "url": "https://inematds.github.io/inemaseo-metodo/guia/", "d": "Método SEO + GEO para Google, Bing e buscas de IA.", "i18n": true},
-        {"t": "projeto", "nome": "claude-seo", "url": "https://inematds.github.io/claude-seo/guia/", "d": "Auditoria técnica e otimização para busca por IA com o Claude Code."}
+        {
+          "t": "projeto",
+          "nome": "inemaseo-metodo",
+          "url": "https://inematds.github.io/inemaseo-metodo/guia/",
+          "d": "Método SEO + GEO para Google, Bing e buscas de IA.",
+          "i18n": true
+        },
+        {
+          "t": "projeto",
+          "nome": "claude-seo",
+          "url": "https://inematds.github.io/claude-seo/guia/",
+          "d": "Auditoria técnica e otimização para busca por IA com o Claude Code."
+        }
       ]
     },
     {
-      "id": "n08", "pos": 8, "emoji": "⚙️", "degrau": 2,
+      "id": "n08",
+      "pos": 8,
+      "emoji": "⚙️",
+      "degrau": 2,
       "nome": "Automação e integração",
-      "notas": {"tec": 2, "mer": 3, "dur": 2},
+      "notas": {
+        "tec": 2,
+        "mer": 3,
+        "dur": 2
+      },
       "curta": "A demanda não para de crescer, mas fluxo pronto virou mercadoria. O valor está em achar o gargalo.",
       "texto": [
-        "Você liga a IA aos sistemas que a empresa já usa: CRM, e-mail, planilha, nota fiscal, WhatsApp. Foi por onde muita gente começou e ainda é onde mais aparece pedido de serviço.",
+        "Você liga a IA aos sistemas que a empresa já usa: o sistema de clientes (CRM), e-mail, planilha, nota fiscal, WhatsApp. Foi por onde muita gente começou e ainda é onde mais aparece pedido de serviço.",
         "Só que montar automação está ficando cada vez mais fácil, e muitas empresas já contratam alguém interno para isso. Um fluxo avulso vale pouco. O que vale é descobrir qual gargalo custa mais caro, ligar a correção a um resultado do negócio e cobrar por esse resultado, e isso já é o degrau de consultoria."
       ],
       "preco": "R$ 1.500 a R$ 6.000 por fluxo; mais quando cobrado pelo resultado.",
       "para_quem": "Quem gosta de lógica e ferramentas e quer serviço com demanda constante.",
       "armadilha": "Vender fluxo por peça e competir por preço com milhares de pessoas.",
-      "comecar": ["Peça ao cliente a tarefa que mais toma tempo da equipe", "Automatize só ela, com antes e depois medidos", "Use o resultado para vender o próximo gargalo"],
-      "oferta": "Sua equipe gasta [X] horas por semana em [tarefa]. Eu tiro isso das mãos dela em 15 dias.",
+      "comecar": [
+        "Peça ao cliente a tarefa que mais toma tempo da equipe",
+        "Automatize só ela, com antes e depois medidos",
+        "Use o resultado para vender o próximo gargalo"
+      ],
+      "oferta": "Sua equipe gasta [X] horas por semana em [tarefa]. Eu automatizo isso e mostro as horas devolvidas.",
       "kpi": "Horas por semana devolvidas à equipe",
       "rel": [
-        {"t": "curso", "nome": "Fundamentos de automação com n8n", "url": "https://inematds.github.io/N8Nb/", "d": "Nós, conexões de API e RAG para montar fluxos."},
-        {"t": "projeto", "nome": "raio-x-margem", "url": "https://inematds.github.io/raio-x-margem/guia/", "d": "Ache onde o negócio perde dinheiro e mostre em reais."}
+        {
+          "t": "curso",
+          "nome": "Fundamentos de automação com n8n",
+          "url": "https://inematds.github.io/N8Nb/",
+          "d": "Monte automações ligando seus sistemas, passo a passo."
+        },
+        {
+          "t": "projeto",
+          "nome": "raio-x-margem",
+          "url": "https://inematds.github.io/raio-x-margem/guia/",
+          "d": "Ache onde o negócio perde dinheiro e mostre em reais."
+        }
       ]
     },
     {
-      "id": "n07", "pos": 7, "emoji": "🎓", "degrau": 3,
+      "id": "n07",
+      "pos": 7,
+      "emoji": "🎓",
+      "degrau": 3,
       "nome": "Workshops de IA para equipes",
-      "notas": {"tec": 3, "mer": 3, "dur": 3},
+      "notas": {
+        "tec": 3,
+        "mer": 3,
+        "dur": 3
+      },
       "curta": "Você é pago para ensinar e sai da sala como \"a pessoa de IA\" da empresa.",
       "texto": [
-        "Você ensina a equipe de uma empresa a usar IA no trabalho de cada um, com os casos reais dela. A maior parte dos funcionários diz que não recebeu treinamento de verdade, e as empresas sabem disso.",
+        "Você ensina a equipe de uma empresa a usar IA no trabalho de cada um, com os casos reais dela. Em muitas empresas a equipe usa IA por conta própria, sem treinamento, e o dono sabe disso.",
         "O ganho maior vem depois. Na sala você vê todos os problemas da empresa e ganha confiança na hora. É comum que depois do workshop venha um projeto maior. Dar aula é uma habilidade que se treina, e você precisa dominar as ferramentas que ensina."
       ],
       "preco": "R$ 3.000 por meio período a R$ 15.000 por dia inteiro com turma grande.",
       "para_quem": "Quem gosta de explicar, fala bem em público e já usa IA no próprio trabalho.",
       "armadilha": "Workshop genérico de \"ChatGPT para iniciantes\". Leve os casos da empresa, senão ninguém usa no dia seguinte.",
-      "comecar": ["Monte uma oficina de 3 horas com 5 usos reais para um setor", "Faça a primeira de graça ou a preço baixo em troca de depoimento", "Termine sempre com o diagnóstico do que dá para automatizar"],
+      "comecar": [
+        "Monte uma oficina de 3 horas com 5 usos reais para um setor",
+        "Faça a primeira de graça ou a preço baixo em troca de depoimento",
+        "Termine sempre com o diagnóstico do que dá para automatizar"
+      ],
       "oferta": "Em 3 horas sua equipe sai usando IA em [5 tarefas do setor], com material para continuar.",
       "kpi": "Pessoas usando IA no trabalho 30 dias depois",
       "rel": [
-        {"t": "curso", "nome": "PHA 2030", "url": "https://inematds.github.io/pha2030-aula/", "d": "Preparar pessoas e empresas para adotar IA com critério."},
-        {"t": "curso", "nome": "Crie seu método", "url": "https://inematds.github.io/crie-seu-metodo-v72/", "d": "Transforme o que você sabe num método que dá para ensinar."}
+        {
+          "t": "curso",
+          "nome": "PHA 2030 — pessoas prontas para a IA",
+          "url": "https://inematds.github.io/pha2030-aula/",
+          "d": "Preparar pessoas e empresas para adotar IA com critério."
+        },
+        {
+          "t": "curso",
+          "nome": "Crie seu método",
+          "url": "https://inematds.github.io/crie-seu-metodo-v72/",
+          "d": "Transforme o que você sabe num método que dá para ensinar."
+        }
       ]
     },
     {
-      "id": "n06", "pos": 6, "emoji": "📞", "degrau": 2,
+      "id": "n06",
+      "pos": 6,
+      "emoji": "📞",
+      "degrau": 2,
       "nome": "Atendente e recepcionista com IA",
-      "notas": {"tec": 3, "mer": 4, "dur": 2},
+      "notas": {
+        "tec": 3,
+        "mer": 4,
+        "dur": 2
+      },
       "curta": "IA que atende WhatsApp, telefone e site, marca horário e passa para humano. No Brasil, o WhatsApp põe esse negócio lá em cima.",
       "texto": [
-        "A IA responde mensagens, telefone e o chat do site, tira dúvidas, marca horário e chama uma pessoa quando precisa. É fácil explicar o retorno: uma parte grande das ligações e mensagens das pequenas empresas fica sem resposta, e para clínica, oficina ou escritório cada uma delas é um cliente perdido.",
+        "A IA responde mensagens, telefone e o chat do site, tira dúvidas, marca horário e chama uma pessoa quando precisa. É fácil explicar o retorno: basta o dono contar quantas mensagens e ligações ficaram sem resposta no último mês, e para clínica, oficina ou escritório cada uma delas pode ser um cliente perdido.",
         "No Brasil, onde quase tudo passa pelo WhatsApp, a dor é ainda mais visível. O risco é a durabilidade: os sistemas de agenda e de atendimento que essas empresas já pagam estão colocando IA própria. Quem ganha é quem conhece o setor e cuida da configuração, das regras e do acompanhamento."
       ],
       "preco": "R$ 2.000 a R$ 8.000 na implantação, mais R$ 500 a R$ 2.000 por mês.",
       "para_quem": "Quem quer serviço com mensalidade e resultado fácil de mostrar ao dono.",
       "armadilha": "Vender a mesma IA genérica para todo mundo. O sistema que o cliente já usa vai oferecer igual e mais barato.",
-      "comecar": ["Escolha um setor (clínica, oficina, salão)", "Monte a demonstração com as perguntas reais desse setor", "Mostre ao dono quantas mensagens ficaram sem resposta no último mês"],
-      "oferta": "Nenhuma mensagem sua fica sem resposta, nem às 22 h; a IA marca o horário e chama você quando precisa.",
+      "comecar": [
+        "Escolha um setor (clínica, oficina, salão)",
+        "Monte a demonstração com as perguntas reais desse setor",
+        "Mostre ao dono quantas mensagens ficaram sem resposta no último mês"
+      ],
+      "oferta": "Sua clínica responde toda mensagem, até às 22 h: a IA marca o horário e chama você quando precisa.",
       "kpi": "Mensagens e ligações respondidas e horários marcados",
       "rel": [
-        {"t": "projeto", "nome": "atende-clinica", "url": "https://inematds.github.io/atende-clinica/guia/", "d": "Atendimento com IA para clínicas: agenda, dúvidas e retorno.", "i18n": true},
-        {"t": "projeto", "nome": "atende-leads", "url": "https://inematds.github.io/atende-leads/guia/", "d": "Lead do WhatsApp vai na hora para o colaborador livre.", "i18n": true},
-        {"t": "projeto", "nome": "atende-academia", "url": "https://inematds.github.io/atende-academia/guia/", "d": "Academia: planos, aulas com vaga e check-in pelo WhatsApp."}
+        {
+          "t": "projeto",
+          "nome": "atende-clinica",
+          "url": "https://inematds.github.io/atende-clinica/guia/",
+          "d": "Atendimento com IA para clínicas: agenda, dúvidas e retorno.",
+          "i18n": true
+        },
+        {
+          "t": "projeto",
+          "nome": "atende-leads",
+          "url": "https://inematds.github.io/atende-leads/guia/",
+          "d": "Lead do WhatsApp vai na hora para o colaborador livre.",
+          "i18n": true
+        },
+        {
+          "t": "projeto",
+          "nome": "atende-academia",
+          "url": "https://inematds.github.io/atende-academia/guia/",
+          "d": "Academia: planos, aulas com vaga e check-in pelo WhatsApp."
+        }
       ]
     },
     {
-      "id": "n05", "pos": 5, "emoji": "🎨", "degrau": 2,
+      "id": "n05",
+      "pos": 5,
+      "emoji": "🎨",
+      "degrau": 2,
       "nome": "Estúdio criativo com IA",
-      "notas": {"tec": 3, "mer": 4, "dur": 3},
+      "notas": {
+        "tec": 3,
+        "mer": 4,
+        "dur": 3
+      },
       "curta": "Anúncios, vídeos e carrosséis para marcas. Qualquer um aperta \"gerar\"; o cliente paga por gosto e resultado.",
       "texto": [
-        "Você produz anúncios, comerciais, carrosséis e edição de vídeo para marcas com IA. Uma pessoa faz hoje o que pedia uma equipe e equipamento caro, e edição de vídeo com IA está entre as habilidades mais procuradas.",
+        "Você produz anúncios, comerciais, carrosséis e edição de vídeo para marcas com IA. Uma pessoa faz hoje o que pedia uma equipe e equipamento caro.",
         "O outro lado é que qualquer um aperta o botão de gerar, inclusive dentro das próprias ferramentas de anúncio, e o preço por peça está caindo. O cliente paga por gosto, por saber qual modelo serve para qual público e por usar os números de cada anúncio para fazer o próximo melhor. Se os seus anúncios vendem, o cliente não sai."
       ],
       "preco": "R$ 2.000 a R$ 8.000 por mês por marca, em pacote de peças.",
       "para_quem": "Quem tem olho para imagem, gosta de vídeo e quer acompanhar resultado de anúncio.",
       "armadilha": "Vender peça bonita por unidade. Venda o pacote mensal ligado ao resultado das campanhas.",
-      "comecar": ["Refaça 3 anúncios de uma marca que você admira", "Ofereça um pacote de teste de 10 peças", "Mostre o resultado de cada peça e ajuste a próxima"],
+      "comecar": [
+        "Refaça 3 anúncios de uma marca que você admira",
+        "Ofereça um pacote de teste de 10 peças",
+        "Mostre o resultado de cada peça e ajuste a próxima"
+      ],
       "oferta": "Todo mês você recebe [N] anúncios novos, e eu troco os que não vendem pelos que vendem.",
       "kpi": "Custo por venda ou por contato das campanhas",
       "rel": [
-        {"t": "projeto", "nome": "carrossel-inema", "url": "https://inematds.github.io/carrossel-inema/guia/", "d": "Roteiro vira carrossel e stories prontos para publicar.", "i18n": true},
-        {"t": "projeto", "nome": "video-codigo", "url": "https://inematds.github.io/video-codigo/guia/", "d": "Vídeo feito em código, com voz local, sem gerador pago."},
-        {"t": "curso", "nome": "Monetização para criadores", "url": "https://inematds.github.io/curso-monetizacao-criadores/", "d": "Orçamento, pacotes e portfólio para vender produção."}
+        {
+          "t": "projeto",
+          "nome": "carrossel-inema",
+          "url": "https://inematds.github.io/carrossel-inema/guia/",
+          "d": "Roteiro vira carrossel e stories prontos para publicar.",
+          "i18n": true
+        },
+        {
+          "t": "projeto",
+          "nome": "video-codigo",
+          "url": "https://inematds.github.io/video-codigo/guia/",
+          "d": "Vídeo feito em código, com voz local, sem gerador pago."
+        },
+        {
+          "t": "curso",
+          "nome": "Monetização para criadores",
+          "url": "https://inematds.github.io/curso-monetizacao-criadores/",
+          "d": "Orçamento, pacotes e portfólio para vender produção."
+        }
       ]
     },
     {
-      "id": "n04", "pos": 4, "emoji": "🎯", "degrau": 3,
-      "nome": "Geração de clientes (leads) com IA",
-      "notas": {"tec": 4, "mer": 3, "dur": 5},
+      "id": "n04",
+      "pos": 4,
+      "emoji": "🎯",
+      "degrau": 3,
+      "nome": "Geração de clientes com IA",
+      "notas": {
+        "tec": 4,
+        "mer": 3,
+        "dur": 5
+      },
       "curta": "O resultado mais claro da lista: mais contatos, mais vendas. Se funcionar, ninguém cancela.",
       "texto": [
-        "Você usa IA para encontrar empresas e pessoas com sinal de compra, enriquecer os dados, personalizar a abordagem e testar muito mais mensagens do que uma equipe humana conseguiria. Entrega reuniões ou contatos qualificados para o cliente.",
+        "Você usa IA para encontrar empresas e pessoas com sinal de compra (uma vaga aberta, uma loja nova, uma expansão), completar os dados de contato, personalizar a abordagem e testar muito mais mensagens do que uma equipe humana conseguiria. Entrega reuniões ou contatos interessados de verdade para o cliente.",
         "É o negócio mais \"grudento\": se você manda clientes e o cliente ganha dinheiro com eles, ele não cancela. O número é o mais fácil de medir. A condição é dura: você precisa gerar os próprios clientes primeiro, senão ninguém acredita que você gera os dos outros. Quem já tem agência de prospecção e coloca IA por cima sai na frente."
       ],
       "preco": "R$ 3.000 a R$ 10.000 por mês, ou valor por reunião marcada.",
       "para_quem": "Quem gosta de vendas, números e testes, e topa provar o método em si mesmo.",
-      "armadilha": "Disparo em massa sem critério. Queima o domínio, o número do WhatsApp e a reputação do cliente.",
-      "comecar": ["Use o método para conseguir os seus 3 primeiros clientes", "Escolha um setor e um sinal de compra (vaga aberta, loja nova, expansão)", "Ofereça 30 dias pagos por reunião marcada"],
-      "oferta": "Eu coloco [N] reuniões por mês com [tipo de cliente] na sua agenda. Você paga pelo que acontecer.",
+      "armadilha": "Disparo em massa sem critério. Faz o e-mail e o número de WhatsApp do cliente caírem no spam ou serem bloqueados, e queima a reputação dele.",
+      "comecar": [
+        "Use o método para conseguir os seus 3 primeiros clientes",
+        "Escolha um setor e um sinal de compra (vaga aberta, loja nova, expansão)",
+        "Ofereça 30 dias pagos por reunião marcada"
+      ],
+      "oferta": "Eu busco reuniões com [tipo de cliente] para a sua agenda, e você paga pelas que acontecerem.",
       "kpi": "Reuniões marcadas e vendas fechadas por mês",
       "rel": [
-        {"t": "projeto", "nome": "prospeccao-por-sinais", "url": "https://inematds.github.io/prospeccao-por-sinais/guia/", "d": "Encontre quem tem sinal de compra e aborde na hora certa.", "i18n": true},
-        {"t": "projeto", "nome": "atende-leads", "url": "https://inematds.github.io/atende-leads/guia/", "d": "Todo lead que chega é atendido na hora.", "i18n": true}
+        {
+          "t": "projeto",
+          "nome": "prospeccao-por-sinais",
+          "url": "https://inematds.github.io/prospeccao-por-sinais/guia/",
+          "d": "Encontre quem tem sinal de compra e aborde na hora certa.",
+          "i18n": true
+        },
+        {
+          "t": "projeto",
+          "nome": "atende-leads",
+          "url": "https://inematds.github.io/atende-leads/guia/",
+          "d": "Todo lead que chega é atendido na hora.",
+          "i18n": true
+        }
       ]
     },
     {
-      "id": "n03", "pos": 3, "emoji": "🎙️", "degrau": 4,
+      "id": "n03",
+      "pos": 3,
+      "emoji": "🎙️",
+      "degrau": 4,
       "nome": "Educação e marca pessoal",
-      "notas": {"tec": 3, "mer": 3, "dur": 5},
+      "notas": {
+        "tec": 3,
+        "mer": 3,
+        "dur": 5
+      },
       "curta": "O mais durável de todos: quem confia em você segue você quando a ferramenta muda. Mas leva anos.",
       "texto": [
         "Cursos, comunidade, newsletter e vídeos, de preferência com o seu rosto e a sua voz. Você precisa estar no dia a dia do assunto para ensinar, ou pelo menos se sair bem diante da câmera. A concorrência cresce, mas o público que quer aprender também.",
@@ -299,131 +544,495 @@
       "preco": "De curso avulso a assinatura de comunidade; depende do tamanho e da confiança do público.",
       "para_quem": "Quem já tem prática para mostrar, gosta de ensinar e aguenta construir aos poucos.",
       "armadilha": "Começar pela marca sem ter prova. Primeiro resultado, depois confiança, depois audiência.",
-      "comecar": ["Documente toda semana um caso real que você resolveu", "Publique no mesmo canal, no mesmo dia, por 90 dias", "Junte quem responde numa lista ou grupo seu"],
+      "comecar": [
+        "Documente toda semana um caso real que você resolveu",
+        "Publique no mesmo canal, no mesmo dia, por 90 dias",
+        "Junte quem responde numa lista ou grupo seu"
+      ],
       "oferta": "Eu mostro toda semana como resolver [problema] com IA, com casos reais.",
       "kpi": "Pessoas na sua lista ou comunidade",
       "rel": [
-        {"t": "curso", "nome": "Crie seu método", "url": "https://inematds.github.io/crie-seu-metodo-v72/", "d": "Organize o que você sabe num método com nome."},
-        {"t": "projeto", "nome": "carrossel-inema", "url": "https://inematds.github.io/carrossel-inema/guia/", "d": "Publique com constância sem passar o dia no design.", "i18n": true}
+        {
+          "t": "curso",
+          "nome": "Crie seu método",
+          "url": "https://inematds.github.io/crie-seu-metodo-v72/",
+          "d": "Organize o que você sabe num método com nome."
+        },
+        {
+          "t": "projeto",
+          "nome": "carrossel-inema",
+          "url": "https://inematds.github.io/carrossel-inema/guia/",
+          "d": "Publique com constância sem passar o dia no design.",
+          "i18n": true
+        }
       ]
     },
     {
-      "id": "n02", "pos": 2, "emoji": "🩺", "degrau": 3,
+      "id": "n02",
+      "pos": 2,
+      "emoji": "🩺",
+      "degrau": 3,
       "nome": "Consultoria e diagnóstico de IA",
-      "notas": {"tec": 3, "mer": 4, "dur": 4},
+      "notas": {
+        "tec": 3,
+        "mer": 4,
+        "dur": 4
+      },
       "curta": "Você é o médico: entende como a empresa funciona, acha o gargalo e receita onde a IA economiza mais.",
       "texto": [
         "Você entra na empresa, entende o processo, encontra o gargalo e indica onde a IA economiza mais tempo ou dinheiro. A correção fica mais barata a cada mês; o diagnóstico continua valendo. E existe a parte humana que nenhuma IA resolve: convencer a equipe, definir regras de uso, cuidar da mudança de hábito.",
-        "As próprias empresas de IA abriram áreas de serviço para implantar suas ferramentas nas empresas, sinal de que a implantação é onde está o trabalho. A consultoria paga mais rápido que a educação e abre espaço para os projetos de automação, atendimento e treinamento."
+        "Implantar IA de verdade numa empresa dá trabalho, e é nessa implantação que está a maior parte do valor. A consultoria paga mais rápido que a educação e abre espaço para os projetos de automação, atendimento e treinamento."
       ],
       "preco": "Diagnóstico de R$ 3.000 a R$ 30.000, mais a implantação.",
       "para_quem": "Quem entende de negócio, faz boas perguntas e já entregou alguns projetos com IA.",
       "armadilha": "Entregar um relatório bonito e ir embora. O cliente paga pela mudança, não pelo PDF.",
-      "comecar": ["Ofereça um diagnóstico de 1 dia com preço fechado", "Entregue 3 oportunidades com economia estimada em reais", "Proponha implantar a primeira com meta medida"],
+      "comecar": [
+        "Ofereça um diagnóstico de 1 dia com preço fechado",
+        "Entregue 3 oportunidades com economia estimada em reais",
+        "Proponha implantar a primeira com meta medida"
+      ],
       "oferta": "Em uma semana eu mostro onde a IA economiza mais na sua empresa, em reais, e implanto a primeira.",
       "kpi": "Reais economizados ou ganhos por mês após a implantação",
       "rel": [
-        {"t": "curso", "nome": "Mapa do Cliente (método DICA)", "url": "https://inematds.github.io/mapacliente/", "d": "Forma consultores de IA para pequenos negócios."},
-        {"t": "curso", "nome": "Consultoria de IA: do diagnóstico à entrega", "url": "https://inematds.github.io/formacao-vendas-ia-consultoria/", "d": "Diagnóstico, desenho de solução, preço, entrega e crescimento."},
-        {"t": "projeto", "nome": "empresa-de-ia", "url": "https://inematds.github.io/empresa-de-ia/guia/", "d": "Kit para levar IA a pequenas e médias empresas.", "i18n": true}
+        {
+          "t": "curso",
+          "nome": "Mapa do Cliente (método DICA)",
+          "url": "https://inematds.github.io/mapacliente/",
+          "d": "Forma consultores de IA para pequenos negócios."
+        },
+        {
+          "t": "curso",
+          "nome": "Consultoria de IA: do diagnóstico à entrega",
+          "url": "https://inematds.github.io/formacao-vendas-ia-consultoria/",
+          "d": "Diagnóstico, desenho de solução, preço, entrega e crescimento."
+        },
+        {
+          "t": "projeto",
+          "nome": "empresa-de-ia",
+          "url": "https://inematds.github.io/empresa-de-ia/guia/",
+          "d": "Kit para levar IA a pequenas e médias empresas.",
+          "i18n": true
+        }
       ]
     },
     {
-      "id": "n01", "pos": 1, "emoji": "🧭", "degrau": 4,
+      "id": "n01",
+      "pos": 1,
+      "emoji": "🧭",
+      "degrau": 4,
       "nome": "Diretor de IA (na empresa ou fracionado)",
-      "notas": {"tec": 4, "mer": 5, "dur": 5},
+      "notas": {
+        "tec": 4,
+        "mer": 5,
+        "dur": 5
+      },
       "curta": "O topo: responder pela estratégia de IA de uma empresa, ou de várias ao mesmo tempo.",
       "texto": [
         "Há dois caminhos igualmente bons. Virar a pessoa de IA dentro da empresa em que você já trabalha e responder pela estratégia e pelos resultados. Ou trabalhar como diretor fracionado, atendendo poucas empresas ao mesmo tempo, algumas horas por semana cada. Esse costuma ser o passo natural de quem fez consultoria.",
-        "Grandes empresas estão criando esse cargo depressa, e profissionais com habilidade em IA já ganham acima dos colegas. Exige saber o suficiente para nunca ser pego de surpresa e ter postura de executivo. Quanto mais a IA avança, mais valioso fica quem decide como usá-la."
+        "Cada vez mais empresas querem alguém que responda pela IA, e quem junta conhecimento de IA com visão de negócio tende a ser mais valorizado. Exige saber o suficiente para nunca ser pego de surpresa e ter postura de executivo. Quanto mais a IA avança, mais valioso fica quem decide como usá-la."
       ],
       "preco": "Fracionado: R$ 8.000 a R$ 25.000 por mês por empresa. Interno: salário de diretoria.",
       "para_quem": "Quem já tem experiência de gestão ou consultoria e confiança de donos e diretores.",
       "armadilha": "Querer o cargo sem a prova. Ele vem depois de resultados medidos em outras empresas.",
-      "comecar": ["Escolha 1 empresa onde você já tem confiança", "Proponha 90 dias com 3 metas de negócio ligadas à IA", "Faça relatório mensal de resultado para a diretoria"],
+      "comecar": [
+        "Escolha 1 empresa onde você já tem confiança",
+        "Proponha 90 dias com 3 metas de negócio ligadas à IA",
+        "Faça relatório mensal de resultado para a diretoria"
+      ],
       "oferta": "Eu cuido da IA da sua empresa algumas horas por semana: estratégia, ferramentas, equipe e resultado.",
       "kpi": "Metas de negócio atingidas por trimestre",
       "rel": [
-        {"t": "curso", "nome": "Claude como gestor de agentes", "url": "https://inematds.github.io/claude-gestor-de-agentes-v72/", "d": "Coordene vários agentes e equipes numa tela só."},
-        {"t": "projeto", "nome": "inema-business-discovery", "url": "https://inematds.github.io/inema-business-discovery/guia/", "d": "Agentes que descobrem e validam oportunidades de negócio."}
+        {
+          "t": "curso",
+          "nome": "Claude como gestor de agentes",
+          "url": "https://inematds.github.io/claude-gestor-de-agentes-v72/",
+          "d": "Coordene vários agentes e equipes numa tela só."
+        },
+        {
+          "t": "projeto",
+          "nome": "inema-business-discovery",
+          "url": "https://inematds.github.io/inema-business-discovery/guia/",
+          "d": "Agentes que descobrem e validam oportunidades de negócio."
+        }
       ]
     }
   ],
   "degraus": [
-    {"n": 1, "emoji": "🧱", "nome": "Entrega rápida", "vende": "Você vende o que constrói", "d": "Coisas visuais e rápidas de mostrar. Bom para ganhar prática e os primeiros clientes; preço cai todo ano.", "ids": ["n11", "n12", "n13"]},
-    {"n": 2, "emoji": "🔧", "nome": "Resolve uma dor", "vende": "Você vende um resultado do dia a dia", "d": "Atendimento, automação, peças criativas, busca por IA. Mensalidade e número fácil de mostrar.", "ids": ["n06", "n08", "n05", "n09", "n10"]},
-    {"n": 3, "emoji": "🩺", "nome": "Ensina e diagnostica", "vende": "Você vende confiança e diagnóstico", "d": "Workshop, consultoria e geração de clientes. Paga melhor e abre os projetos grandes.", "ids": ["n07", "n02", "n04"]},
-    {"n": 4, "emoji": "🧭", "nome": "Vende o julgamento", "vende": "Você vende a sua decisão", "d": "Diretor de IA e marca pessoal. Mais lento de chegar, mais difícil de substituir.", "ids": ["n01", "n03"]}
+    {
+      "n": 1,
+      "emoji": "🧱",
+      "nome": "Entrega rápida",
+      "vende": "Você vende o que constrói",
+      "d": "Coisas visuais e rápidas de mostrar. Bom para ganhar prática e os primeiros clientes; preço cai todo ano.",
+      "ids": [
+        "n11",
+        "n12",
+        "n13"
+      ]
+    },
+    {
+      "n": 2,
+      "emoji": "🔧",
+      "nome": "Resolve uma dor",
+      "vende": "Você vende um resultado do dia a dia",
+      "d": "Atendimento, automação, peças criativas, busca por IA. Mensalidade e número fácil de mostrar.",
+      "ids": [
+        "n06",
+        "n08",
+        "n05",
+        "n09",
+        "n10"
+      ]
+    },
+    {
+      "n": 3,
+      "emoji": "🩺",
+      "nome": "Ensina e diagnostica",
+      "vende": "Você vende confiança e diagnóstico",
+      "d": "Workshop, consultoria e geração de clientes. Paga melhor e abre os projetos grandes.",
+      "ids": [
+        "n07",
+        "n02",
+        "n04"
+      ]
+    },
+    {
+      "n": 4,
+      "emoji": "🧭",
+      "nome": "Vende o julgamento",
+      "vende": "Você vende a sua decisão",
+      "d": "Diretor de IA e marca pessoal. Mais lento de chegar, mais difícil de substituir.",
+      "ids": [
+        "n01",
+        "n03"
+      ]
+    }
   ],
   "teste": [
-    {"p": "Quanto tempo você tem por semana para isso?", "op": [
-      {"t": "Menos de 10 horas", "s": {"n11": 2, "n12": 2, "n05": 1}},
-      {"t": "De 10 a 25 horas", "s": {"n06": 2, "n08": 2, "n09": 1, "n05": 1}},
-      {"t": "Tempo integral", "s": {"n04": 2, "n02": 2, "n10": 1, "n01": 1}}
-    ]},
-    {"p": "Como está seu conhecimento técnico?", "op": [
-      {"t": "Uso o ChatGPT, nunca programei", "s": {"n11": 2, "n12": 1, "n07": 1, "n05": 1}},
-      {"t": "Monto automação e configuro ferramentas", "s": {"n08": 2, "n06": 2, "n09": 1}},
-      {"t": "Programo e entendo de sistemas", "s": {"n10": 2, "n13": 2, "n04": 1}}
-    ]},
-    {"p": "Você já tem clientes ou contatos de empresas?", "op": [
-      {"t": "Nenhum ainda", "s": {"n11": 2, "n12": 2}},
-      {"t": "Alguns conhecidos com negócio", "s": {"n06": 2, "n05": 1, "n07": 1, "n08": 1}},
-      {"t": "Sim, trabalho com empresas há anos", "s": {"n02": 2, "n01": 2, "n04": 1}}
-    ]},
-    {"p": "Você tem público (seguidores, lista, grupo)?", "op": [
-      {"t": "Não", "s": {"n11": 1, "n06": 1, "n08": 1, "n02": 1}},
-      {"t": "Um pouco, centenas de pessoas", "s": {"n07": 2, "n05": 1, "n03": 1}},
-      {"t": "Sim, milhares de pessoas", "s": {"n03": 3, "n13": 2, "n12": 1}}
-    ]},
-    {"p": "O que você mais gosta de fazer?", "op": [
-      {"t": "Criar coisas visuais", "s": {"n05": 3, "n11": 2, "n12": 1}},
-      {"t": "Montar sistemas e fluxos", "s": {"n08": 2, "n06": 2, "n10": 2, "n13": 1}},
-      {"t": "Explicar e ensinar", "s": {"n07": 3, "n03": 2}},
-      {"t": "Vender e conversar com donos", "s": {"n04": 2, "n02": 2, "n01": 1, "n09": 1}}
-    ]},
-    {"p": "Em quanto tempo você precisa ver dinheiro?", "op": [
-      {"t": "Este mês", "s": {"n11": 2, "n06": 1, "n05": 1, "n08": 1}},
-      {"t": "Em até 3 meses", "s": {"n06": 2, "n07": 2, "n02": 1, "n09": 1}},
-      {"t": "Posso construir por 1 ano ou mais", "s": {"n03": 2, "n01": 2, "n13": 1, "n04": 1}}
-    ]}
+    {
+      "p": "Quanto tempo você tem por semana para isso?",
+      "op": [
+        {
+          "t": "Menos de 10 horas",
+          "s": {
+            "n11": 2,
+            "n12": 2,
+            "n05": 1
+          }
+        },
+        {
+          "t": "De 10 a 25 horas",
+          "s": {
+            "n06": 2,
+            "n08": 2,
+            "n09": 2,
+            "n05": 1
+          }
+        },
+        {
+          "t": "Tempo integral",
+          "s": {
+            "n04": 2,
+            "n02": 2,
+            "n10": 1,
+            "n01": 1
+          }
+        }
+      ]
+    },
+    {
+      "p": "Como está seu conhecimento técnico?",
+      "op": [
+        {
+          "t": "Uso o ChatGPT, nunca programei",
+          "s": {
+            "n11": 2,
+            "n12": 1,
+            "n07": 1,
+            "n05": 1
+          }
+        },
+        {
+          "t": "Monto automação e configuro ferramentas",
+          "s": {
+            "n08": 3,
+            "n06": 2,
+            "n09": 2
+          }
+        },
+        {
+          "t": "Programo e entendo de sistemas",
+          "s": {
+            "n10": 2,
+            "n13": 2,
+            "n04": 1
+          }
+        }
+      ]
+    },
+    {
+      "p": "Você já tem clientes ou contatos de empresas?",
+      "op": [
+        {
+          "t": "Nenhum ainda",
+          "s": {
+            "n11": 2,
+            "n12": 2
+          }
+        },
+        {
+          "t": "Alguns conhecidos com negócio",
+          "s": {
+            "n06": 2,
+            "n05": 1,
+            "n07": 1,
+            "n08": 1
+          }
+        },
+        {
+          "t": "Sim, trabalho com empresas há anos",
+          "s": {
+            "n02": 2,
+            "n01": 2,
+            "n04": 1
+          }
+        }
+      ]
+    },
+    {
+      "p": "Você tem público (seguidores, lista, grupo)?",
+      "op": [
+        {
+          "t": "Não",
+          "s": {
+            "n11": 1,
+            "n06": 1,
+            "n08": 1,
+            "n02": 1
+          }
+        },
+        {
+          "t": "Um pouco, centenas de pessoas",
+          "s": {
+            "n07": 2,
+            "n05": 1,
+            "n03": 1
+          }
+        },
+        {
+          "t": "Sim, milhares de pessoas",
+          "s": {
+            "n03": 3,
+            "n13": 2,
+            "n12": 1
+          }
+        }
+      ]
+    },
+    {
+      "p": "O que você mais gosta de fazer?",
+      "op": [
+        {
+          "t": "Criar coisas visuais",
+          "s": {
+            "n05": 3,
+            "n11": 2,
+            "n12": 1
+          }
+        },
+        {
+          "t": "Montar sistemas e fluxos",
+          "s": {
+            "n08": 3,
+            "n06": 2,
+            "n10": 2,
+            "n13": 1
+          }
+        },
+        {
+          "t": "Explicar e ensinar",
+          "s": {
+            "n07": 3,
+            "n03": 2
+          }
+        },
+        {
+          "t": "Vender e conversar com donos",
+          "s": {
+            "n04": 2,
+            "n02": 2,
+            "n09": 2,
+            "n01": 1
+          }
+        }
+      ]
+    },
+    {
+      "p": "Em quanto tempo você precisa ver dinheiro?",
+      "op": [
+        {
+          "t": "Este mês",
+          "s": {
+            "n11": 2,
+            "n06": 1,
+            "n05": 1,
+            "n08": 1
+          }
+        },
+        {
+          "t": "Em até 3 meses",
+          "s": {
+            "n06": 2,
+            "n07": 2,
+            "n02": 1,
+            "n09": 1
+          }
+        },
+        {
+          "t": "Posso construir por 1 ano ou mais",
+          "s": {
+            "n03": 2,
+            "n01": 2,
+            "n13": 1,
+            "n04": 1
+          }
+        }
+      ]
+    }
   ],
   "setores": [
-    {"id": "clinica", "emoji": "🦷", "nome": "Clínica e consultório", "ofertas": [
-      {"d": 1, "t": "Site com agenda on-line e página por especialidade"},
-      {"d": 2, "t": "Atendente no WhatsApp que marca consulta e lembra o paciente na véspera"},
-      {"d": 3, "t": "Diagnóstico das faltas e do tempo de recepção, com meta de reduzir faltas"},
-      {"d": 4, "t": "Diretor de IA de uma rede de clínicas, cuidando de atendimento, prontuário e regras de privacidade"}
-    ]},
-    {"id": "contabil", "emoji": "📊", "nome": "Contabilidade", "ofertas": [
-      {"d": 1, "t": "Site com calculadoras e conteúdo para atrair empresas"},
-      {"d": 2, "t": "Automação que lê os documentos do cliente e organiza para o lançamento"},
-      {"d": 3, "t": "Workshop para a equipe usar IA na rotina fiscal, com 5 casos do escritório"},
-      {"d": 4, "t": "Diretor de IA do escritório, levando a oferta de IA também para os clientes dele"}
-    ]},
-    {"id": "imobiliaria", "emoji": "🏠", "nome": "Imobiliária", "ofertas": [
-      {"d": 1, "t": "Vídeos e carrosséis de cada imóvel feitos com IA"},
-      {"d": 2, "t": "Atendente que responde o interessado na hora e agenda a visita"},
-      {"d": 3, "t": "Geração de proprietários com imóvel para vender, por sinais públicos"},
-      {"d": 4, "t": "Estratégia de IA da imobiliária, da captação ao pós-venda"}
-    ]},
-    {"id": "advocacia", "emoji": "⚖️", "nome": "Advocacia", "ofertas": [
-      {"d": 1, "t": "Site por área de atuação, preparado para aparecer nas respostas da IA"},
-      {"d": 2, "t": "Triagem de novos casos pelo WhatsApp, com resumo para o advogado"},
-      {"d": 3, "t": "Diagnóstico de onde a IA economiza horas de pesquisa e minuta, com regras de sigilo"},
-      {"d": 4, "t": "Diretor de IA fracionado de escritórios médios"}
-    ]},
-    {"id": "restaurante", "emoji": "🍽️", "nome": "Restaurante", "ofertas": [
-      {"d": 1, "t": "Cardápio digital e fotos dos pratos tratadas com IA"},
-      {"d": 2, "t": "Pedidos e reservas pelo WhatsApp com resposta automática"},
-      {"d": 3, "t": "Raio-x da margem: onde o restaurante perde dinheiro, em reais"},
-      {"d": 4, "t": "IA de uma rede ou franquia: compras, escala e atendimento"}
-    ]}
+    {
+      "id": "clinica",
+      "emoji": "🦷",
+      "nome": "Clínica e consultório",
+      "ofertas": [
+        {
+          "d": 1,
+          "t": "Site com agenda on-line e página por especialidade"
+        },
+        {
+          "d": 2,
+          "t": "Atendente no WhatsApp que marca consulta e lembra o paciente na véspera"
+        },
+        {
+          "d": 3,
+          "t": "Diagnóstico das faltas e do tempo de recepção, com meta de reduzir faltas"
+        },
+        {
+          "d": 4,
+          "t": "Diretor de IA de uma rede de clínicas, cuidando de atendimento, prontuário e regras de privacidade"
+        }
+      ]
+    },
+    {
+      "id": "contabil",
+      "emoji": "📊",
+      "nome": "Contabilidade",
+      "ofertas": [
+        {
+          "d": 1,
+          "t": "Site com calculadoras e conteúdo para atrair empresas"
+        },
+        {
+          "d": 2,
+          "t": "Automação que lê os documentos do cliente e organiza para o lançamento"
+        },
+        {
+          "d": 3,
+          "t": "Workshop para a equipe usar IA na rotina fiscal, com 5 casos do escritório"
+        },
+        {
+          "d": 4,
+          "t": "Diretor de IA do escritório, levando a oferta de IA também para os clientes dele"
+        }
+      ]
+    },
+    {
+      "id": "imobiliaria",
+      "emoji": "🏠",
+      "nome": "Imobiliária",
+      "ofertas": [
+        {
+          "d": 1,
+          "t": "Vídeos e carrosséis de cada imóvel feitos com IA"
+        },
+        {
+          "d": 2,
+          "t": "Atendente que responde o interessado na hora e agenda a visita"
+        },
+        {
+          "d": 3,
+          "t": "Geração de proprietários com imóvel para vender, por sinais públicos"
+        },
+        {
+          "d": 4,
+          "t": "Estratégia de IA da imobiliária, da captação ao pós-venda"
+        }
+      ]
+    },
+    {
+      "id": "advocacia",
+      "emoji": "⚖️",
+      "nome": "Advocacia",
+      "ofertas": [
+        {
+          "d": 1,
+          "t": "Site por área de atuação, preparado para aparecer nas respostas da IA"
+        },
+        {
+          "d": 2,
+          "t": "Triagem de novos casos pelo WhatsApp, com resumo para o advogado"
+        },
+        {
+          "d": 3,
+          "t": "Diagnóstico de onde a IA economiza horas de pesquisa e minuta, com regras de sigilo"
+        },
+        {
+          "d": 4,
+          "t": "Diretor de IA fracionado de escritórios médios"
+        }
+      ]
+    },
+    {
+      "id": "restaurante",
+      "emoji": "🍽️",
+      "nome": "Restaurante",
+      "ofertas": [
+        {
+          "d": 1,
+          "t": "Cardápio digital e fotos dos pratos tratadas com IA"
+        },
+        {
+          "d": 2,
+          "t": "Pedidos e reservas pelo WhatsApp com resposta automática"
+        },
+        {
+          "d": 3,
+          "t": "Raio-x da margem: onde o restaurante perde dinheiro, em reais"
+        },
+        {
+          "d": 4,
+          "t": "IA de uma rede ou franquia: compras, escala e atendimento"
+        }
+      ]
+    }
   ],
   "plano": [
-    {"t": "Semana 1", "d": "Escolha um negócio e um setor. Monte a demonstração com os dados de um cliente real, sem pedir permissão."},
-    {"t": "Semanas 2 a 4", "d": "Mostre a demonstração a 20 empresas do setor. Feche o primeiro cliente, mesmo barato, em troca de depoimento e números."},
-    {"t": "Mês 2", "d": "Entregue medindo antes e depois. Escreva o estudo de caso com o número que mudou."},
-    {"t": "Mês 3", "d": "Use o estudo de caso para vender mais 3 clientes e ofereça ao primeiro o serviço do degrau de cima."}
+    {
+      "t": "Semana 1",
+      "d": "Escolha um negócio e um setor. Monte a demonstração com o que é público do cliente (site, redes, cardápio) ou com dados de exemplo, nunca com dados privados sem autorização."
+    },
+    {
+      "t": "Semanas 2 a 4",
+      "d": "Mostre a demonstração a 20 empresas do setor. Feche o primeiro cliente, mesmo barato, em troca de depoimento e números."
+    },
+    {
+      "t": "Mês 2",
+      "d": "Entregue medindo antes e depois. Escreva o estudo de caso com o número que mudou."
+    },
+    {
+      "t": "Mês 3",
+      "d": "Use o estudo de caso para vender mais 3 clientes e ofereça ao primeiro o serviço do degrau de cima."
+    }
   ]
 }
