@@ -18,7 +18,7 @@
     "resumo": "Todo dia aparece um negócio novo para abrir com inteligência artificial, e escolher ficou mais difícil do que construir. Esta página avalia treze deles com três notas de 1 a 5: quanto conhecimento técnico você precisa para entregar algo que alguém pague, quanto espaço existe no mercado (mais compradores do que vendedores) e quanto o negócio dura e cresce sem ser engolido por uma plataforma. A lista vai do pior ao melhor negócio para construir no longo prazo. Isso não é o mesmo que o melhor para começar: o 1º lugar exige experiência que ninguém tem no primeiro dia, e alguns negócios do fim da lista são ótimos para dar o primeiro passo. A regra que aparece no fim é simples: embaixo você vende o que constrói, que fica mais barato a cada mês; em cima você vende o seu julgamento, que fica mais valioso. Por isso a segunda parte é uma escada de quatro degraus, com um teste de 6 perguntas para achar o seu, a oferta pronta de cada negócio, exemplos por setor e um plano de 90 dias. Os valores em reais são faixas de referência do que se cobra, não promessa de ganho.",
     "notas_chip": "Como lemos as notas",
     "notas_titulo": "Três notas, de 1 a 5",
-    "notas_sub": "Nenhum negócio da lista é ruim: todos funcionam para alguém. As notas mostram que tipo de problema você vai ter. A posição não é a soma das notas: pesa mais quanto o negócio dura e se ele leva você para o próximo degrau.",
+    "notas_sub": "Nenhum negócio da lista é ruim: todos funcionam para alguém. As notas mostram que tipo de problema você vai ter. A posição não é a soma das notas: ela junta as três com quanto o negócio paga, quanto depende de você e se ele leva você ao próximo degrau.",
     "n_tec": "Exige técnica",
     "n_tec_d": "Quanto conhecimento você precisa para entregar algo que alguém pague. Nota alta = mais difícil.",
     "n_mer": "Espaço no mercado",
@@ -36,7 +36,7 @@
     "armadilha": "A armadilha",
     "comecar": "Primeiros passos",
     "oferta": "A oferta em uma frase",
-    "kpi": "O número que você promete mover",
+    "kpi": "O número que você mede com o cliente",
     "degrau": "Degrau",
     "rel_titulo": "Projetos e cursos INEMA para começar",
     "rel_projeto": "Projeto",
@@ -97,7 +97,7 @@
       "id": "n13",
       "pos": 13,
       "emoji": "📱",
-      "degrau": 1,
+      "degrau": 2,
       "nome": "Aplicativo por assinatura com IA (SaaS)",
       "notas": {
         "tec": 4,
@@ -236,7 +236,7 @@
         "É uma porta de entrada excelente, porque depois de confiar em você o cliente compra projetos maiores. O ponto fraco é medir. Toda oferta precisa de um número que o dono acompanha (vendas, horas, atendimentos), e uma central genérica não move um número claro. Também só funciona se o dono já acredita em IA; senão a equipe não muda o hábito e você fica sem estudo de caso."
       ],
       "preco": "R$ 5.000 a R$ 20.000 na implantação, mais R$ 800 a R$ 3.000 por mês.",
-      "para_quem": "Quem já domina agentes e automações e tem acesso a donos que gostam de tecnologia.",
+      "para_quem": "Quem já monta assistentes de IA e automações e tem acesso a donos que gostam de tecnologia.",
       "armadilha": "Vender a central sem um número ligado a ela. Sem resultado medido, não sai indicação.",
       "comecar": [
         "Escolha um processo com número claro (ex.: tempo de resposta)",
@@ -272,7 +272,7 @@
         "mer": 3,
         "dur": 2
       },
-      "curta": "É o SEO da era do ChatGPT: dinheiro entrando, pouca gente fazendo, mas é preciso saber provar resultado.",
+      "curta": "É o SEO da era do ChatGPT: as empresas já pagam por isso e ainda é cedo, mas é preciso saber provar resultado.",
       "texto": [
         "Você trabalha para que a marca do cliente seja recomendada quando alguém pergunta algo ao ChatGPT, ao Gemini, ao Claude ou ao Perplexity. É a continuação do SEO (o trabalho de fazer um site aparecer no Google), um mercado que já existe há décadas e que as empresas sabem que precisam pagar.",
         "Quem já faz SEO tem vantagem enorme, porque sabe medir e mostrar resultado. Sem essa base, é difícil provar que a mudança veio do seu trabalho. E as regras de quem aparece nas respostas podem mudar a qualquer momento."
@@ -396,14 +396,14 @@
         "mer": 4,
         "dur": 2
       },
-      "curta": "IA que atende WhatsApp, telefone e site, marca horário e passa para humano. No Brasil, o WhatsApp põe esse negócio lá em cima.",
+      "curta": "IA que atende WhatsApp, telefone e site, marca horário e passa para humano. No Brasil, o WhatsApp faz esse negócio subir na lista.",
       "texto": [
         "A IA responde mensagens, telefone e o chat do site, tira dúvidas, marca horário e chama uma pessoa quando precisa. É fácil explicar o retorno: basta o dono contar quantas mensagens e ligações ficaram sem resposta no último mês, e para clínica, oficina ou escritório cada uma delas pode ser um cliente perdido.",
         "No Brasil, onde quase tudo passa pelo WhatsApp, a dor é ainda mais visível. O risco é a durabilidade: os sistemas de agenda e de atendimento que essas empresas já pagam estão colocando IA própria. Quem ganha é quem conhece o setor e cuida da configuração, das regras e do acompanhamento."
       ],
       "preco": "R$ 2.000 a R$ 8.000 na implantação, mais R$ 500 a R$ 2.000 por mês.",
       "para_quem": "Quem quer serviço com mensalidade e resultado fácil de mostrar ao dono.",
-      "armadilha": "Vender a mesma IA genérica para todo mundo. O sistema que o cliente já usa vai oferecer igual e mais barato.",
+      "armadilha": "Vender a mesma IA genérica para todo mundo: o sistema que o cliente já usa vai oferecer igual e mais barato. E em clínica, dado de saúde é sensível: use ferramenta com contrato de proteção de dados e passe as perguntas clínicas para uma pessoa.",
       "comecar": [
         "Escolha um setor (clínica, oficina, salão)",
         "Monte a demonstração com as perguntas reais desse setor",
@@ -493,16 +493,16 @@
         "mer": 3,
         "dur": 5
       },
-      "curta": "O resultado mais claro da lista: mais contatos, mais vendas. Se funcionar, ninguém cancela.",
+      "curta": "O resultado mais claro da lista: mais contatos, mais vendas. Quando os contatos viram vendas, o cliente dificilmente cancela.",
       "texto": [
         "Você usa IA para encontrar empresas e pessoas com sinal de compra (uma vaga aberta, uma loja nova, uma expansão), completar os dados de contato, personalizar a abordagem e testar muito mais mensagens do que uma equipe humana conseguiria. Entrega reuniões ou contatos interessados de verdade para o cliente.",
-        "É o negócio mais \"grudento\": se você manda clientes e o cliente ganha dinheiro com eles, ele não cancela. O número é o mais fácil de medir. A condição é dura: você precisa gerar os próprios clientes primeiro, senão ninguém acredita que você gera os dos outros. Quem já tem agência de prospecção e coloca IA por cima sai na frente."
+        "É o negócio mais \"grudento\": se você manda clientes e o cliente ganha dinheiro com eles, ele dificilmente cancela. O número é o mais fácil de medir. A condição é dura: você precisa gerar os próprios clientes primeiro, senão ninguém acredita que você gera os dos outros. Quem já tem agência de prospecção e coloca IA por cima sai na frente."
       ],
       "preco": "R$ 3.000 a R$ 10.000 por mês, ou valor por reunião marcada.",
       "para_quem": "Quem gosta de vendas, números e testes, e topa provar o método em si mesmo.",
-      "armadilha": "Disparo em massa sem critério. Faz o e-mail e o número de WhatsApp do cliente caírem no spam ou serem bloqueados, e queima a reputação dele.",
+      "armadilha": "Disparo em massa sem critério: faz o e-mail e o WhatsApp do cliente caírem no spam e queima a reputação dele. Aborde só por canais comerciais públicos, diga quem você é, ofereça a opção de não receber mais e não compre listas de contatos (LGPD).",
       "comecar": [
-        "Use o método para conseguir os seus 3 primeiros clientes",
+        "Use a sua própria prospecção para conseguir os seus 3 primeiros clientes",
         "Escolha um setor e um sinal de compra (vaga aberta, loja nova, expansão)",
         "Ofereça 30 dias pagos por reunião marcada"
       ],
@@ -666,8 +666,7 @@
       "d": "Coisas visuais e rápidas de mostrar. Bom para ganhar prática e os primeiros clientes; preço cai todo ano.",
       "ids": [
         "n11",
-        "n12",
-        "n13"
+        "n12"
       ]
     },
     {
@@ -675,13 +674,14 @@
       "emoji": "🔧",
       "nome": "Resolve uma dor",
       "vende": "Você vende um resultado do dia a dia",
-      "d": "Atendimento, automação, peças criativas, busca por IA. Mensalidade e número fácil de mostrar.",
+      "d": "Atendimento, automação, peças criativas, busca por IA e aplicativos. Mensalidade e número fácil de mostrar, mas exige mais técnica ou caixa.",
       "ids": [
         "n06",
         "n08",
         "n05",
         "n09",
-        "n10"
+        "n10",
+        "n13"
       ]
     },
     {
