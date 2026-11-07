@@ -11,6 +11,7 @@ Cada día aparece un nuevo negocio que puedes iniciar con inteligencia artificia
 ## 📖 Página
 
 - Ranking de los 13 negocios: **https://inematds.github.io/negocios-com-ia/guia/es/**
+- Video (16:9 y short, en portugués): **https://inematds.github.io/negocios-com-ia/videos/**
 - Escalera, test y plan de 90 días: **https://inematds.github.io/negocios-com-ia/guia/es/escada/**
 
 (Exigencia técnica / Espacio en el mercado / Durabilidad y crecimiento)

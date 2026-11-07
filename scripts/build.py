@@ -211,7 +211,7 @@ def ranking(c, lang):
     <span class="chip">{E(ui["hero_chip"])}</span>
     <h1>{ui["hero_titulo"]}</h1>
     <p class="lead">{E(ui["hero_lead"])}</p>
-    <div class="cta"><a class="btn" href="#lista">{E(ui["cta1"])}</a><a class="btn ghost" href="escada/#teste">{E(ui["cta2"])}</a></div>
+    <div class="cta"><a class="btn" href="#lista">{E(ui["cta1"])}</a><a class="btn ghost" href="escada/#teste">{E(ui["cta2"])}</a><a class="btn ghost" href="https://inematds.github.io/{SLUG}/videos/">▶ {E(ui["cta_video"])}</a></div>
   </div>
   <figure><img src="{a}/banner{suf}.jpg" alt="{E(ui["hero_alt"])}" width="1400" height="788"></figure>
 </div></header>

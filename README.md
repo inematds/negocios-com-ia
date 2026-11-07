@@ -12,6 +12,7 @@ Todo dia aparece um negócio novo para abrir com inteligência artificial, e esc
 
 - Ranking dos 13 negócios: **https://inematds.github.io/negocios-com-ia/guia/**
 - Escada, teste e plano de 90 dias: **https://inematds.github.io/negocios-com-ia/guia/escada/**
+- Vídeo (16:9 e short): **https://inematds.github.io/negocios-com-ia/videos/**
 
 (Exige técnica / Espaço no mercado / Dura e cresce)
 

@@ -11,6 +11,7 @@ Every day, a new business idea built around artificial intelligence appears, and
 ## 📖 Page
 
 - Ranking of the 13 businesses: **https://inematds.github.io/negocios-com-ia/guia/en/**
+- Video (16:9 and short, in Portuguese): **https://inematds.github.io/negocios-com-ia/videos/**
 - Ladder, quiz and 90-day plan: **https://inematds.github.io/negocios-com-ia/guia/en/escada/**
 
 (Technical demands / Market opportunity / Durability and growth)
